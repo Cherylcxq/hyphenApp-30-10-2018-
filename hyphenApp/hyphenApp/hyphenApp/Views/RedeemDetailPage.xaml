@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.RedeemDetailPage"
+             Title="{Binding Title}">
+    <StackLayout Spacing="20" Padding="15">
+        <Grid VerticalOptions="FillAndExpand" >
+            <ScrollView x:Name="scvForm" VerticalOptions="StartAndExpand" BackgroundColor="White">
+
+                <StackLayout VerticalOptions="FillAndExpand" Spacing="0" BackgroundColor="White" >
+
+                    <BoxView HeightRequest="5" Color="Silver">
+                    </BoxView>
+                    <StackLayout>
+                        <Frame x:Name="HeaderFrame1" OutlineColor="Silver">
+                            <Grid Padding =" 20,0,0,0" RowSpacing="20" ColumnSpacing="20">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Image x:Name="img2" Source="{Binding Item.Source}" Grid.Row="0" Grid.Column="0" WidthRequest="100" HeightRequest = "100" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                                <Label x:Name="lbName" Text="{Binding Item.Name}" Grid.Row="0" Grid.Column="1"  LineBreakMode = "WordWrap" FontSize="Small" VerticalOptions="Center" BackgroundColor="White" HeightRequest="50" TextColor="Blue"/>
+
+                                <Label x:Name="lbDesc" Text="{Binding Item.Description}" Grid.Row="1" Grid.Column="0"  LineBreakMode = "WordWrap" FontSize="Micro" VerticalOptions="Start" BackgroundColor="White" HeightRequest="50" TextColor="Silver"/>
+
+                                <Label x:Name="lbPoints" Text="{Binding Item.Points}" Grid.Row="1" Grid.Column="1" FontSize="Medium" BackgroundColor="White" VerticalOptions="Start" HeightRequest="50" TextColor="Black"/>
+                                <Label x:Name="lbProductID" Text="{Binding Item.ProductID}" Grid.Row="1" Grid.Column="0" FontSize="Micro" BackgroundColor="White" VerticalOptions="Start" HeightRequest="50" TextColor="Black"/>
+                            </Grid>
+
+                        </Frame>
+
+                        <Frame x:Name="HeaderFrame2" OutlineColor="Silver">
+                            <BoxView HeightRequest="1" Color="Silver">
+                            </BoxView>
+                        </Frame>
+
+                        <Frame x:Name="HeaderFrame3" OutlineColor="Silver">
+                            <Button Text="Redeem" x:Name="btnRedeem" FontSize="Small" BackgroundColor="Blue" HeightRequest="50" TextColor="White"  VerticalOptions="EndAndExpand" />
+                        </Frame>
+                    </StackLayout>
+                    <StackLayout HeightRequest="50" />
+                </StackLayout>
+            </ScrollView>
+            <!--<custom:BottomSendButtonBar x:Name="bottomSendButtonBar" VerticalOptions="EndAndExpand" />-->
+        </Grid>
+        <!--<Label Text="Text:" FontSize="Medium" />
+        <Label Text="{Binding Item.Text}" FontSize="Small"/>
+        <Label Text="Description:" FontSize="Medium" />
+        <Label Text="{Binding Item.Description}" FontSize="Small"/>-->
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.RewardMenuPage"
+             xmlns:vm="clr-namespace:hyphenApp.ViewModels"
+             Title="Rewards">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Page Level Resources: Compatibile with Xamarin Live Player -->
+            <Color x:Key="Primary">#66cde6</Color>
+            <Color x:Key="Accent">#96d1ff</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
+
+        <Grid Grid.Row="0" Grid.Column="0" BackgroundColor="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Image x:Name="imgScanReceipt" Source="scanreceipt_menu.png"  Grid.Row="0" Grid.Column="0"  HorizontalOptions="End" WidthRequest="130" HeightRequest="130" Aspect="AspectFit">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="ScanReceipt_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Source="redemption_menu.png"  Grid.Row="0" Grid.Column="1" HorizontalOptions="Start" WidthRequest="130" HeightRequest="130" Aspect="AspectFit">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Redemption_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Source="redeemhistory_menu.png"  Grid.Row="1" Grid.Column="0" HorizontalOptions="End" WidthRequest="130" HeightRequest="130" Aspect="AspectFit">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="RedeemHistory_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="pointshistory_menu.png"  Grid.Row="1" Grid.Column="1" HorizontalOptions="Start" WidthRequest="130" HeightRequest="130" Aspect="AspectFit">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="PointsHistory_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+        </Grid>
+    </StackLayout>
+</ContentPage>

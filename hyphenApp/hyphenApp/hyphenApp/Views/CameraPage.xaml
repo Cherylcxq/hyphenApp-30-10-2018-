@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.CameraPage"
+             Title="Scan Receipt">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <ContentView x:Name="actIndBackground"
+                             BackgroundColor="Blue" Opacity="0.5"
+                             AbsoluteLayout.LayoutFlags="All"
+                             AbsoluteLayout.LayoutBounds="0,0,1,1"
+                             IsVisible="{Binding IsLoading}">
+                </ContentView>
+                <ActivityIndicator x:Name="actInd"
+                             AbsoluteLayout.LayoutFlags="PositionProportional"
+                             AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1"
+                             IsRunning="{Binding IsLoading}"
+                             IsVisible="{Binding IsLoading}" />
+                <Grid BackgroundColor="Transparent">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="tbStatus" FontSize="Small" Grid.Row="0" Grid.Column="0" TextColor="Navy" Text="" WidthRequest="280" VerticalOptions="Start" HorizontalOptions="Center" />
+
+                    <Label FontSize="Micro" Grid.Row="1" Grid.Column="0" TextColor="Silver" Text="Please ensure that these details are clearly visible" WidthRequest="280" VerticalOptions="Start" HorizontalOptions="Center" />
+                    <Label FontSize="Small" Grid.Row="2" Grid.Column="0" TextColor="BlueViolet" Text="Product name" WidthRequest="280" VerticalOptions="Start" HorizontalOptions="Center" />
+                    <Label FontSize="Small" Grid.Row="3" Grid.Column="0" TextColor="BlueViolet" Text="Purchase amount" WidthRequest="280" VerticalOptions="Start" HorizontalOptions="Center" />
+                    <Label FontSize="Small" Grid.Row="4" Grid.Column="0" TextColor="BlueViolet" Text="Receipt date" WidthRequest="280" VerticalOptions="Start" HorizontalOptions="Center" />
+                    <Label FontSize="Micro" Grid.Row="5" Grid.Column="0" TextColor="Silver" Text="Receipts need to have a minimum value of $20 and submitted within 24 hours of purchase" WidthRequest="280" VerticalOptions="Start" HorizontalOptions="Center" />
+
+                    <Grid Grid.Row="6" Grid.Column="0" BackgroundColor="Transparent">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Image x:Name="imgScan" Source="icon_camera.png"  Grid.Row="0" Grid.Column="0"  HorizontalOptions="End" WidthRequest="60" HeightRequest="60" Aspect="AspectFit">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="Scan_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                        <Image x:Name="imgUpload" Source="icon_upload.png"  Grid.Row="0" Grid.Column="1"  HorizontalOptions="Center" WidthRequest="60" HeightRequest="60" Aspect="AspectFit">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="Upload_OnTapGestureRecognizerTappedAsync" NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                        <Image x:Name="imgPick" Source="pick_icon.png"  Grid.Row="0" Grid.Column="2"  HorizontalOptions="Start" WidthRequest="60" HeightRequest="60" Aspect="AspectFit">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="Pick_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Grid>
+                    <Image x:Name="image" Grid.Row="7" Grid.Column="0" WidthRequest="300" HeightRequest = "400"/>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

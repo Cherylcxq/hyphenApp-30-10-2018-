@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.DoctorPage"
+              Title="Doctor">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+        <ToolbarItem Text="Delete" Clicked="Delete_Clicked" />
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+            <StackLayout  BackgroundColor="#f2f2f2" Spacing="0">
+
+                <!--<custom:TopBar x:Name="topBar" Title="Doctor" LeftButtonSource="iconblackclose" ></custom:TopBar>-->
+
+                <Grid VerticalOptions="FillAndExpand">
+                    <ScrollView x:Name="scvForm" VerticalOptions="StartAndExpand" BackgroundColor="#f2f2f2">
+
+                        <StackLayout Spacing="0">
+
+
+                            <StackLayout Orientation="Horizontal" HeightRequest="40">
+                                <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                                    <Label x:Name="lblContactInfo" Text="CONTACT INFORMATION" FontSize="13" TextColor="#808080" />
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                                <StackLayout VerticalOptions="Center" Orientation="Horizontal">
+                                    <Label x:Name="lblName" Text="Name*" FontSize="16" TextColor="#808080"  MinimumWidthRequest="110" WidthRequest="110" />
+
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                    <Entry x:Name="txtName" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Blue" FontSize="16" Placeholder="Name of doctor" />
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                                <StackLayout VerticalOptions="Center" Orientation="Horizontal" >
+                                    <Label x:Name="lblEmail" Text="Email*" FontSize="16" TextColor="#808080" MinimumWidthRequest="110" WidthRequest="110" />
+
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Center" HorizontalOptions="Fill" Orientation="Horizontal">
+                                    <Grid WidthRequest="200">
+                                        <Entry Placeholder="Email address" x:Name="txtEmail" HorizontalOptions="Fill" BackgroundColor="White" TextColor="Blue" Keyboard="Email" FontSize="16" />
+                                    </Grid>
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout Orientation="Horizontal" HeightRequest="40">
+                                <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                                    <Label x:Name="lblOtherInfo" Text="OTHER INFORMATION" FontSize="13" TextColor="#808080" />
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                                <StackLayout VerticalOptions="Center"  Orientation="Horizontal">
+                                    <Label x:Name="lblClinic" Text="Clinic Name" FontSize="16" TextColor="#808080" MinimumWidthRequest="110" WidthRequest="110" />
+
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                    <Entry Placeholder="Clinic Name" x:Name="txtClinic" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Blue" FontSize="16" />
+                                </StackLayout>
+                            </StackLayout>
+
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout Orientation="Horizontal" Padding="20,5,20,5" HeightRequest="100" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                                <StackLayout VerticalOptions="Start" Orientation="Horizontal" Padding="0,8,0,0" >
+                                    <Label x:Name="lblAddress" Text="Address" FontSize="16" TextColor="#808080" MinimumWidthRequest="110" WidthRequest="110" />
+
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Start" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                    <Editor x:Name="txtAddress" BackgroundColor="White" TextColor="Blue" HeightRequest="90" HorizontalOptions="FillAndExpand" FontSize="16"/>
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout Orientation="Horizontal" Padding="20,5,20,5" HeightRequest="100" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                                <StackLayout VerticalOptions="Start" Orientation="Horizontal" Padding="0,8,0,0" >
+                                    <Label x:Name="lblNotes" Text="Notes" FontSize="16" TextColor="#808080" MinimumWidthRequest="110" WidthRequest="110" />
+
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Start" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                    <Editor x:Name="txtInfo"  BackgroundColor="White" TextColor="Blue" HeightRequest="90" HorizontalOptions="FillAndExpand" FontSize="16"/>
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout HeightRequest="150"></StackLayout>
+
+
+                        </StackLayout>
+                    </ScrollView>
+
+                    <!--<custom:BottomSaveButtonBar x:Name="bottomSaveButtonBar" VerticalOptions="EndAndExpand" />-->
+                </Grid>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.RedeemHistoryPage"
+              Title="Redeem History">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="Center">
+                <ListView x:Name="redeemHistory" BackgroundColor="White" SeparatorVisibility="Default" SeparatorColor="White" RowHeight="100">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <StackLayout Padding="20,0,20,0" Orientation="Horizontal" Spacing='10' HeightRequest="100">
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*" />
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <Grid Grid.Row="0" Grid.Column="0"  WidthRequest="60">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                                </Grid.ColumnDefinitions>
+                                                <Label FontSize="Micro" Grid.Row="0" Grid.Column="0" TextColor="Navy" Text="{Binding productname}" LineBreakMode="WordWrap" WidthRequest="60" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                                <Label FontSize="Micro" Grid.Row="1" Grid.Column="0" TextColor="Silver" Text="{Binding status}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                            </Grid>
+                                            <Grid Grid.Row="0" Grid.Column="1"  WidthRequest="200">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                                </Grid.ColumnDefinitions>
+                                                <Label FontSize="Micro" Grid.Row="0" Grid.Column="0" TextColor="Navy" Text="{Binding submitdate}" WidthRequest="150" VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+                                                <BoxView HeightRequest="1" Grid.Row="1" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand" Color="Navy"></BoxView>
+                                                <Label FontSize="Small" Grid.Row="2" Grid.Column="0" TextColor="Black" Text="{Binding points}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                            </Grid>
+                                            <Image  Source="redeem_icon.png"  Grid.Row="0" Grid.Column="2" HorizontalOptions="End" VerticalOptions="Start" WidthRequest="30" HeightRequest="30" Aspect="AspectFit" >
+                                            </Image>
+                                        </Grid>
+                                    </StackLayout>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

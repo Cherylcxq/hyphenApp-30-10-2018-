@@ -1,0 +1,484 @@
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\tab_about.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\tab_about@2x.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\tab_about@3x.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\tab_feed.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\tab_feed@2x.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\tab_feed@3x.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\xamarin_logo.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\xamarin_logo@2x.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\xamarin_logo@3x.png
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csprojAssemblyReference.cache
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.pdb
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fil\hyphenApp.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\hyphenApp.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\hyphenApp.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\hyphenApp.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-CN\hyphenApp.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-TW\hyphenApp.resources.dll
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CopyComplete
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\Users\L30901\Desktop\hyphenApp (2)\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csprojAssemblyReference.cache
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CoreCompileInputs.cache
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fil\hyphenApp.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\hyphenApp.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\hyphenApp.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\hyphenApp.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-CN\hyphenApp.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-TW\hyphenApp.resources.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CopyComplete
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.iOS.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.IOC.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Serialization.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.Support.iOS.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.pdb
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Splat.dll
+C:\Hyphen_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll.mdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.Support.iOS.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Splat.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.iOS.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.IOC.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Serialization.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.pdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll.mdb
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fil\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-CN\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-TW\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csprojAssemblyReference.cache
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CoreCompileInputs.cache
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CopyComplete
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\HyphenProject_release\hyphenApp\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.Support.iOS.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotification.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Splat.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.iOS.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.IOC.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Serialization.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.pdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll.mdb
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fil\hyphenApp.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\hyphenApp.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\hyphenApp.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\hyphenApp.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-CN\hyphenApp.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-TW\hyphenApp.resources.dll
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csprojAssemblyReference.cache
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CoreCompileInputs.cache
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CopyComplete
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\HyphenProject_Stable\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.Support.iOS.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Splat.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\LocalNotifications.Plugin.Abstractions.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\LocalNotifications.Plugin.Abstractions.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\LocalNotifications.Plugin.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.iOS.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.IOC.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Serialization.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.pdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll.mdb
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fil\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-CN\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-TW\hyphenApp.resources.dll
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csprojAssemblyReference.cache
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CoreCompileInputs.cache
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CopyComplete
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\HyphenProject_release\hyphenApp(Stable)\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csprojAssemblyReference.cache
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CoreCompileInputs.cache
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.exe
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.iOS.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.Support.iOS.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.Interface.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Acr.UserDialogs.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Splat.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\LocalNotifications.Plugin.Abstractions.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\LocalNotifications.Plugin.Abstractions.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\LocalNotifications.Plugin.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotifications.Abstractions.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotifications.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.iOS.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.IOC.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\XLabs.Serialization.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.pdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\hyphenApp.dll.mdb
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\fil\hyphenApp.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\id\hyphenApp.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\ms\hyphenApp.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\vi\hyphenApp.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-CN\hyphenApp.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\bin\iPhoneSimulator\Debug\zh-TW\hyphenApp.resources.dll
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Stable_version\hyphenApp\hyphenApp\hyphenApp.iOS\obj\iPhoneSimulator\Debug\hyphenApp.iOS.csproj.CopyComplete

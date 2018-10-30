@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="hyphenApp.Views.PatientReminderPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Clicked="Save_Clicked"/>
+        <ToolbarItem Text="Delete" Clicked="Delete_Clicked"/>
+        <ToolbarItem  x:Name="closeButton" Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid VerticalOptions="FillAndExpand">
+                <ScrollView VerticalOptions="FillAndExpand" BackgroundColor="#f2f2f2" >
+                    <StackLayout Spacing="0" BackgroundColor="#f2f2f2">
+                        <StackLayout Orientation="Horizontal" HeightRequest="40" Padding="20,5,20,5">
+                            <StackLayout VerticalOptions="Center" Padding="0,10,0,0" HorizontalOptions="Start" >
+                                <Label x:Name="lblRemindMeTo" Text="REMIND ME TO" FontSize="13" TextColor="#808080" />
+                            </StackLayout>
+                            <Switch x:Name="switchEnabled" VerticalOptions="Center" HorizontalOptions="EndAndExpand"  />
+                        </StackLayout>
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+                        <StackLayout Orientation="Horizontal" Padding="20,5,20,5" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <Picker x:Name="pickReminderType" VerticalOptions="Center" FontSize="16" TextColor="#4F4FFF" />
+                            <Image x:Name="imgReminderType"  Source="pickerdown" WidthRequest="12" HeightRequest="12" VerticalOptions="Center" HorizontalOptions="Start" />
+                        </StackLayout>
+                        <StackLayout Spacing="0" x:Name="OthersStack">
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+                            <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                                <Entry TextColor="#000" x:Name="txtOthers" Placeholder="Enter description" HorizontalOptions="FillAndExpand" FontSize="16" />
+                            </StackLayout>
+                        </StackLayout>
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+                        <StackLayout Orientation="Horizontal" HeightRequest="40">
+                            <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                                <Label x:Name="lblFrequency" Text="FREQUENCY" FontSize="13" TextColor="#808080" />
+                            </StackLayout>
+                        </StackLayout>
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                                <Label x:Name="lblStarts" Text="Starts" FontSize="14" TextColor="#808080" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="End" Orientation="Horizontal">
+                                <DatePicker TextColor="Blue" FontSize="16" BackgroundColor="White" WidthRequest="130" Format="dd-MMM-yyyy" x:Name="dateStartDate" />
+                            </StackLayout>
+                        </StackLayout>
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                                <Label x:Name="lblEnds" Text="Ends" FontSize="14" TextColor="#808080" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="End" Orientation="Horizontal">
+                                <DatePicker TextColor="Blue" FontSize="16" BackgroundColor="White" WidthRequest="130" Format="dd-MMM-yyyy" x:Name="dateEndDate" />
+                            </StackLayout>
+                        </StackLayout>
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="Start" >
+                                <Label x:Name="lblRemindEvery" Text="Remind Every " FontSize="14" TextColor="#808080" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="EndAndExpand" Orientation="Horizontal" Spacing="0">
+                                <Picker x:Name="pickFrequency" TextColor="Blue" FontSize="16" WidthRequest="45" />
+                                <Image x:Name="imgFrequency" Source="pickerdown" WidthRequest="12" HeightRequest="12" VerticalOptions="Center" HorizontalOptions="Start" />
+                                <BoxView WidthRequest="20" />
+                                <Picker x:Name="pickFrequencyType" TextColor="Blue" FontSize="16" WidthRequest="90" />
+                                <Image x:Name="imgFrequencyType" Source="pickerdown" WidthRequest="12" HeightRequest="12" VerticalOptions="Center" HorizontalOptions="Start" />
+                            </StackLayout>
+                        </StackLayout>
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+                        <StackLayout Spacing="0" x:Name="tvMonth">
+                            <StackLayout Orientation="Horizontal" HeightRequest="40">
+                                <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                                    <Label x:Name="lblTimesOfTheDay" Text="TIMES OF THE DAY*" FontSize="13" TextColor="#808080" />
+                                </StackLayout>
+                            </StackLayout>
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+                            <ListView x:Name="lvTimesOfDay" BackgroundColor="#FFF" SeparatorVisibility="Default" SeparatorColor="#d9d9d9" RowHeight="50">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <ViewCell.View>
+                                                <StackLayout Padding="20,0,0,0" Orientation="Horizontal" Spacing='0' HeightRequest="50">
+                                                    <Label FontSize="16" TextColor="#000" Text="{Binding TimeIn12HourFormat}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+
+                                                    <BoxView HeightRequest="30" WidthRequest="1" Color="#d9d9d9" VerticalOptions="Center"></BoxView>
+
+                                                    <StackLayout Orientation="Horizontal" HorizontalOptions="End" VerticalOptions="Fill" MinimumWidthRequest="40" WidthRequest="60">
+                                                        <StackLayout.GestureRecognizers>
+                                                            <TapGestureRecognizer
+													        	Tapped="DeleteTimeOfDay"
+												                CommandParameter="{Binding TimeIn12HourFormat}"
+												                NumberOfTapsRequired="1" />
+                                                        </StackLayout.GestureRecognizers>
+                                                        <Image Source="iconredremove" WidthRequest="20" HeightRequest="20" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
+                                                        </Image>
+                                                    </StackLayout>
+
+                                                </StackLayout>
+                                            </ViewCell.View>
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                            <StackLayout HorizontalOptions="Fill" Padding="10" BackgroundColor="White">
+                                <TimePicker x:Name="timeTimeOfDay" IsVisible="false" />
+                                <Button Text="+ Add Time" FontSize="16" x:Name="btnAdd" BorderRadius="20" HeightRequest="40" VerticalOptions="Center" BackgroundColor="White" TextColor="Blue" />
+                            </StackLayout>
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+                        </StackLayout>
+                        <StackLayout Spacing="0" x:Name="stackWeek">
+                            <StackLayout Orientation="Horizontal" HeightRequest="40">
+                                <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                                    <Label x:Name="lblDaysOfTheWeek" Text="DAYS OF THE WEEK*" FontSize="13" TextColor="#808080" />
+                                </StackLayout>
+                            </StackLayout>
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+                            <StackLayout Orientation="Horizontal" Spacing="0" BackgroundColor="White" Padding="5,10,5,10" >
+                                <StackLayout x:Name="btnSun" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblSunday" Text="Sun" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkSun" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                                <BoxView WidthRequest="1" Color="#d9d9d9" />
+                                <StackLayout x:Name="btnMon" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblMonday" Text="Mon" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkMon" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                                <BoxView WidthRequest="1" Color="#d9d9d9" />
+                                <StackLayout x:Name="btnTue" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblTuesday" Text="Tue" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkTue" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                                <BoxView WidthRequest="1" Color="#d9d9d9" />
+                                <StackLayout x:Name="btnWed" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblWednesday" Text="Wed" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkWed" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                                <BoxView WidthRequest="1" Color="#d9d9d9" />
+                                <StackLayout x:Name="btnThur" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblThursday" Text="Thu" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkThur" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                                <BoxView WidthRequest="1" Color="#d9d9d9" />
+                                <StackLayout x:Name="btnFri" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblFriday" Text="Fri" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkFri" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                                <BoxView WidthRequest="1" Color="#d9d9d9" />
+                                <StackLayout x:Name="btnSat" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label x:Name="lblSaturday" Text="Sat" HorizontalOptions="Center" FontSize="14" WidthRequest="35" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkSat" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                        </StackLayout>
+
+                        <StackLayout HeightRequest="150" VerticalOptions="FillAndExpand">
+                            <Label Text=""/>
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+
+                <!--<custom:BottomSaveButtonBar x:Name="bottomSaveButtonBar" VerticalOptions="EndAndExpand" />-->
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

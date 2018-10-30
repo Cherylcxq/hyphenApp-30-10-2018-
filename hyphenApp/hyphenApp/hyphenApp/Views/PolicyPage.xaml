@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.PolicyPage"
+             Title="Terms and Condition">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="White">
+                <WebView x:Name="wv" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="White" />
+            </StackLayout>
+            <Button x:Name="btnCancel" Text="Ok, I've read it." BackgroundColor="#fef784" TextColor="Blue" HeightRequest="60" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.SettingPage"
+             xmlns:vm="clr-namespace:hyphenApp.ViewModels"
+             Title="Setting">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Page Level Resources: Compatibile with Xamarin Live Player -->
+            <Color x:Key="Primary">#66cde6</Color>
+            <Color x:Key="Accent">#96d1ff</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+        <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
+            
+                <Grid Grid.Row="0" Grid.Column="0" BackgroundColor="Transparent">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+            
+                    <Image x:Name="imgFamily" Source="btn_family.png"  Grid.Row="0" Grid.Column="0"  HorizontalOptions="End" WidthRequest="130" HeightRequest="130" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="AddMember_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                            
+                        </Image.GestureRecognizers>
+                
+            </Image>
+                <Label Grid.Row="0" Grid.Column="0" Text="Add Family" TextColor="Maroon" FontSize="Medium" VerticalOptions="End" HorizontalOptions="End"></Label>
+        
+
+           
+            <Image Source="icon_language.png"  Grid.Row="0" Grid.Column="1" HorizontalOptions="Start" WidthRequest="90" HeightRequest="90" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="ChangeLanguage_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+            <Label Grid.Row="0" Grid.Column="1" Text="Change Language" TextColor="Maroon" FontSize="Medium"  VerticalOptions="End" HorizontalOptions="End"  LineBreakMode = "WordWrap"></Label>
+
+
+
+            <Image Source="icon_about.png"  Grid.Row="1" Grid.Column="0" HorizontalOptions="End" WidthRequest="90" HeightRequest="90" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="About_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+            <Label Grid.Row="1" Grid.Column="0" Text="About Us!" TextColor="Maroon" FontSize="Medium"  VerticalOptions="End" HorizontalOptions="End"></Label>
+
+            <!--<Image Source="pointshistory_menu.png"  Grid.Row="1" Grid.Column="1" HorizontalOptions="Start" WidthRequest="130" HeightRequest="130" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="PointsHistory_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>-->
+                </Grid>
+            </StackLayout>
+</ContentPage>

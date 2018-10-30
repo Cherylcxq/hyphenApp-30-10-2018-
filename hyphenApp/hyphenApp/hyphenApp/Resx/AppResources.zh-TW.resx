@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+
+
+	<data name="BottomSaveButtonBar.Save" xml:space="preserve">
+	    <value>Tiết kiệm</value>
+	    <comment></comment>
+  	</data>
+
+
+	<data name="Common.Open" xml:space="preserve">
+	    <value>mở</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Month01" xml:space="preserve">
+	    <value>thg 1</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month02" xml:space="preserve">
+	    <value>thg 2</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month03" xml:space="preserve">
+	    <value>thg 3</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month04" xml:space="preserve">
+	    <value>thg 4</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month05" xml:space="preserve">
+	    <value>thg 5</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month06" xml:space="preserve">
+	    <value>thg 6</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month07" xml:space="preserve">
+	    <value>thg 7</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month08" xml:space="preserve">
+	    <value>thg 8</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month09" xml:space="preserve">
+	    <value>thg 9</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month10" xml:space="preserve">
+	    <value>thg 10</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month11" xml:space="preserve">
+	    <value>thg 11</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month12" xml:space="preserve">
+	    <value>thg 12</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Sunday" xml:space="preserve">
+	    <value>chủ nhật</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Monday" xml:space="preserve">
+	    <value>thứ hai</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Tuesday" xml:space="preserve">
+	    <value>thứ ba</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Wednesday" xml:space="preserve">
+	    <value>Thứ tư</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Thursday" xml:space="preserve">
+	    <value>Thứ năm</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Friday" xml:space="preserve">
+	    <value>Thứ sáu</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Saturday" xml:space="preserve">
+	    <value>thứ bảy</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.ErrorTitle" xml:space="preserve">
+	    <value>vấn đề</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.OK" xml:space="preserve">
+	    <value>được</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.OptionYes" xml:space="preserve">
+	    <value>Có đi trước</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.OptionNo" xml:space="preserve">
+	    <value>không chờ đợi</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood1" xml:space="preserve">
+	    <value>bình thường</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood2" xml:space="preserve">
+	    <value>Một chút không vui</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood3" xml:space="preserve">
+	    <value>khá hài lòng</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood4" xml:space="preserve">
+	    <value>rất không hài lòng</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood5" xml:space="preserve">
+	    <value>Vô cùng hài lòng</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="dReminder.RateEczema" xml:space="preserve">
+	    <value>eczema tỷ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ApplySteroids" xml:space="preserve">
+	    <value>áp dụng steroid nhiệt đới</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ApplyMoisturisers" xml:space="preserve">
+	    <value>áp dụng dưỡng ẩm</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.OtherReminder" xml:space="preserve">
+	    <value>nhắc nhở khác</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.Day" xml:space="preserve">
+	    <value>ngày</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.Week" xml:space="preserve">
+	    <value>tuần</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.Reminder" xml:space="preserve">
+	    <value>nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ReminderFor" xml:space="preserve">
+	    <value>nhắc nhở cho</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ReminderNotification" xml:space="preserve">
+	    <value>Hãy mở iControl Eczema để nhận thêm thông báo</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="Helper.Cancel" xml:space="preserve">
+	    <value>hủy bỏ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Helper.TakePhoto" xml:space="preserve">
+	    <value>chụp một tấm</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Helper.ChooseFromGallery" xml:space="preserve">
+	    <value>chọn từ thư viện</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="BottomTabBar.Calendar" xml:space="preserve">
+	    <value>lịch</value>
+	    <comment></comment>
+  	</data>
+  	<data name="BottomTabBar.Rate" xml:space="preserve">
+	    <value>định giá</value>
+	    <comment></comment>
+  	</data>
+  	<data name="BottomTabBar.Trend" xml:space="preserve">
+	    <value>khuynh hướng</value>
+	    <comment></comment>
+  	</data>
+  	<data name="BottomTabBar.Reminders" xml:space="preserve">
+	    <value>nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="SideBar.FamilyMembers" xml:space="preserve">
+	    <value>Thành viên gia đình</value>
+	    <comment></comment>
+  	</data>
+  	<data name="SideBar.AddRandomPatient" xml:space="preserve">
+	    <value>thêm bệnh nhân ngẫu nhiên</value>
+	    <comment></comment>
+  	</data><data name="SideBar.AddFamilyMember" xml:space="preserve">
+	    <value>thêm thành viên gia đình</value>
+	    <comment></comment>
+  	</data>
+	<data name="SideBar.ChangeLanguage" xml:space="preserve">
+	    <value>thay đổi ngôn ngữ</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="TopBar.UpdateProfilePic" xml:space="preserve">
+	    <value>hình ảnh cập nhật hồ sơ cá nhân</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="DoctorListPage.EmailDoctor" xml:space="preserve">
+	    <value>bác sĩ email</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.SendEmailFailTitle" xml:space="preserve">
+	    <value>không thể để gửi email</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.SendEmailFailMessage" xml:space="preserve">
+	    <value>Hãy thiết lập email của bạn vào cài đặt điện thoại của bạn đầu tiên</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.HelpTextNoDoctors" xml:space="preserve">
+	    <value>Bạn không có bác sĩ trong danh sách này. Nhấn vào nút + trên để thêm một</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.HelpTextSelectDoctor" xml:space="preserve">
+	    <value>chọn một bác sĩ để gửi email cho biểu đồ để</value>
+	    <comment></comment>
+  	</data>
+
+
+	<data name="DoctorPage.NamePlaceholder" xml:space="preserve">
+	    <value>Tên của bác sĩ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.EmailPlaceholder" xml:space="preserve">
+	    <value>Địa chỉ email</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ClinicPlaceholder" xml:space="preserve">
+	    <value>Tên clinic</value>
+	    <comment></comment>
+  	</data>
+	<data name="DoctorPage.ContactInformation" xml:space="preserve">
+	    <value>thông tin liên lạc</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Name" xml:space="preserve">
+	    <value>Tên</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Email" xml:space="preserve">
+	    <value>Email</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.OtherInfo" xml:space="preserve">
+	    <value>thông tin khác</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Clinic" xml:space="preserve">
+	    <value>tên phòng khám</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Address" xml:space="preserve">
+	    <value>địa chỉ nhà</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Notes" xml:space="preserve">
+	    <value>ghi chú</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ModifyDoctor" xml:space="preserve">
+	    <value>sửa đổi bác sĩ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.AddDoctor" xml:space="preserve">
+	    <value>thêm bác sĩ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ErrorAlertMissingFields" xml:space="preserve">
+	    <value>bạn còn lại ra một số thông tin</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ErrorAlertInvalidEmail" xml:space="preserve">
+	    <value>vi.Các email không nhìn hợp lệ. Nó sẽ giống như name@company.com</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.DeleteDoctor" xml:space="preserve">
+	    <value>xóa bác sĩ này?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="LoginPage.LoginBtn" xml:space="preserve">
+	    <value>đăng nhập</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.Welcome" xml:space="preserve">
+	    <value>Chào mừng! Có vẻ như bạn đang sử dụng ứng dụng này lần đầu tiên</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.CreateAccount" xml:space="preserve">
+	    <value>Hãy nhấn vào đây để tạo một tài khoản mới</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.LoginFailTitle" xml:space="preserve">
+	    <value>không thể đăng nhập</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.LoginFailMessage" xml:space="preserve">
+	    <value>bạn đã quên tên truy cập và mật khẩu của bạn?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientEczemaPage.DeletePhoto" xml:space="preserve">
+	    <value>xóa ảnh này?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientPage.FamilyMembersParticulars" xml:space="preserve">
+	    <value>các thành viên trong gia đình cụ thể</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Photo" xml:space="preserve">
+	    <value>hình chụp</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Choose" xml:space="preserve">
+	    <value>chọn</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Name" xml:space="preserve">
+	    <value>Tên</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.DateOfBirth" xml:space="preserve">
+	    <value>ngày sinh</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Gender" xml:space="preserve">
+	    <value>tính</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.GenderMale" xml:space="preserve">
+	    <value>Nam giới</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.GenderFemale" xml:space="preserve">
+	    <value>phái nữ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.UpdateFamilyMember" xml:space="preserve">
+	    <value>các thành viên cập nhật gia đình</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.AddFamilyMember" xml:space="preserve">
+	    <value>thêm thành viên gia đình</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.HintHelpFirstPatient" xml:space="preserve">
+	    <value>Trước khi sử dụng ứng dụng này , xin vui lòng điền vào các thông tin của một thành viên gia đình những người bị eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.HintHelpPatient" xml:space="preserve">
+	    <value>Điền đầy đủ các thông tin của một thành viên gia đình những người bị eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.UpdateProfilePic" xml:space="preserve">
+	    <value>hình ảnh cập nhật hồ sơ cá nhân</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.DeleteFamilyMember" xml:space="preserve">
+	    <value>Xóa thành viên gia đình và tất cả các xếp hạng Eczema?</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.ErrorMissingFields" xml:space="preserve">
+	    <value>bạn còn lại ra một số thông tin: </value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.ErrorInvalidDateOfBirth" xml:space="preserve">
+	    <value>Ngày sinh không thể muộn hơn ngày hôm nay</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientEczemaPhotoPage.Title" xml:space="preserve">
+	    <value>Hình chụp</value>
+	    <comment></comment>
+  	</data>
+
+  	<data name="PatientReminderPage.OthersPlaceHolder" xml:space="preserve">
+	    <value>Nhập mô tả</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Title" xml:space="preserve">
+	    <value>danh sách nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.TitleAddReminder" xml:space="preserve">
+	    <value>thêm lời nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.TitleUpdateReminder" xml:space="preserve">
+	    <value>cập nhật lời nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.RemindMeTo" xml:space="preserve">
+	    <value>nhắc nhở tôi</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Frequency" xml:space="preserve">
+	    <value>tần số</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Starts" xml:space="preserve">
+	    <value>bắt đầu</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Ends" xml:space="preserve">
+	    <value>đầu</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.RemindEvery" xml:space="preserve">
+	    <value>nhắc nhở mọi </value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.TimesOfTheDay" xml:space="preserve">
+	    <value>lần trong ngày</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.AddTime" xml:space="preserve">
+	    <value>+ thêm thời gian</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.DaysOfTheWeek" xml:space="preserve">
+	    <value>các ngày trong tuần</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorInvalideStartEndDates" xml:space="preserve">
+	    <value>ngày bắt đầu của bạn phải được sớm hơn ngày cuối cùng của bạn</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorMissingTimeOfDay" xml:space="preserve">
+	    <value>Bạn phải có ít nhất 1 lần trong ngày thêm</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorMissingDayOfWeek" xml:space="preserve">
+	    <value>Bạn phải có ít nhất 1 ngày trong tuần được lựa chọn</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorMissingReminderDescription" xml:space="preserve">
+	    <value>Bạn phải nhập một mô tả nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+	<data name="PatientReminderPage.DeleteReminder" xml:space="preserve">
+	    <value>xóa lời nhắc nhở này?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientTabPage.Master" xml:space="preserve">
+	    <value>chủ nhân</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.PatientDetails" xml:space="preserve">
+	    <value>chi tiết bệnh nhân</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateAppMessage" xml:space="preserve">
+	    <value>Đi một chút thời gian để đánh giá iControl Eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateApp" xml:space="preserve">
+	    <value>tỷ lệ iControl Eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateAppRemindLater" xml:space="preserve">
+	    <value>Nhắc tôi lại sau</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateAppDontRemind" xml:space="preserve">
+	    <value>Không, đừng nhắc lại cho tôi</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="UserPage.CreateAccount" xml:space="preserve">
+	    <value>Tạo tài khoản mới</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.LoginName" xml:space="preserve">
+	    <value>tên đăng nhập</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.Password" xml:space="preserve">
+	    <value>mật khẩu</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.Cancel" xml:space="preserve">
+	    <value>Không, cảm ơn , tôi đã có một tài khoản.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.TapSave" xml:space="preserve">
+	    <value>Bằng cách khai thác Lưu , tôi đồng ý với</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.TermsAndConditions" xml:space="preserve">
+	    <value>Các điều khoản và điều kiện</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.MissingFields" xml:space="preserve">
+	    <value>Bạn còn lại ra một số thông tin</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.LoginAlreadyExists" xml:space="preserve">
+	    <value>Một người dùng với tên đăng nhập đã tồn tại</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.PasswordsMismatch" xml:space="preserve">
+	    <value>Cả hai mật khẩu phải phù hợp với</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="UserTOSPage.TermsAndConditions" xml:space="preserve">
+	    <value>Các điều khoản và điều kiện</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserTOSPage.CompletedRead" xml:space="preserve">
+	    <value>ok , tôi đã đọc nó</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientCalendarTabView.ShortSunday" xml:space="preserve">
+	    <value>CN</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortMonday" xml:space="preserve">
+	    <value>T2</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortTuesday" xml:space="preserve">
+	    <value>T3</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortWednesday" xml:space="preserve">
+	    <value>T4</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortThursday" xml:space="preserve">
+	    <value>T5</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortFriday" xml:space="preserve">
+	    <value>T6</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortSaturday" xml:space="preserve">
+	    <value>T7</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.Calendar" xml:space="preserve">
+	    <value>Lịch</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.TapDate" xml:space="preserve">
+	    <value>Chạm vào một ngày để xếp hạng hoặc xem chi tiết</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientEczemaTabView.RateFeeling" xml:space="preserve">
+	    <value>bạn cảm thấy thế nào?</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.DoctorHint" xml:space="preserve">
+	    <value>Chạm vào một trong những biểu tượng cảm xúc trên để đánh giá Eczema của bạn trong ngày. Sau đó, bạn cũng có thể thêm hình ảnh và ghi chú thêm</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.Photos" xml:space="preserve">
+	    <value>ảnh</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.AddPhoto" xml:space="preserve">
+	    <value>+ hình chụp</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.WhatDidYouDo" xml:space="preserve">
+	    <value>bạn đã làm gì?</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.ApplySteroids" xml:space="preserve">
+	    <value>steroid nhiệt đới áp dụng</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.ApplyMoisturiser" xml:space="preserve">
+	    <value>kem dưỡng ẩm Ứng dụng</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.Others" xml:space="preserve">
+	    <value>loại khác</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.Notes" xml:space="preserve">
+	    <value>ghi chú</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.PickPhoto" xml:space="preserve">
+	    <value>thêm ảnh</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.RateEczema" xml:space="preserve">
+	    <value>eczema tỷ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.DeleteRecord" xml:space="preserve">
+	    <value>xóa hồ sơ này?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientReminderListTabView.FrequencyTypeLabel" xml:space="preserve">
+	    <value>mỗi</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.TimesOfDayLabel" xml:space="preserve">
+	    <value>tại</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.DaysOfWeekLabel" xml:space="preserve">
+	    <value>trên</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.Reminders" xml:space="preserve">
+	    <value>nhắc nhở</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.HintHelp" xml:space="preserve">
+	    <value>Bạn không có nhắc nhở thiết lập. Nhấn vào nút + trên để thêm một!</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientTrendChartTabView.Days" xml:space="preserve">
+	    <value>Ngày</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.Weeks" xml:space="preserve">
+	    <value>Tuần</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.ShowTheLast" xml:space="preserve">
+	    <value>Xem trước </value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.EmailDoctor" xml:space="preserve">
+	    <value>biểu đồ email để bác sĩ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.HintHelp" xml:space="preserve">
+	    <value>Xem biểu đồ này với bác sĩ của bạn trong chuyến thăm tiếp theo của bạn</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.Photos" xml:space="preserve">
+	    <value>ảnh</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.ViewRecord" xml:space="preserve">
+	    <value>xem kỷ lục</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.NoPhotos" xml:space="preserve">
+	    <value>Không có ảnh.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.ViewChart" xml:space="preserve">
+	    <value>Xem biểu đồ</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.WeeklyAverage" xml:space="preserve">
+	    <value>trung bình hàng tuần</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.Daily" xml:space="preserve">
+	    <value>Hàng ngày</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.EczemaChartFor" xml:space="preserve">
+	    <value> biểu đồ eczema cho </value>
+	    <comment></comment>
+  	</data>
+
+
+</root>

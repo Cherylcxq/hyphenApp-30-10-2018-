@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.hyphenApp" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
+  <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-feature android:name="android.hardware.camera"></uses-feature>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+  <application android:label="iControl Eczema Plus" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <provider android:name="android.support.v4.content.FileProvider" android:authorities="com.companyname.hyphenApp.fileprovider" android:exported="false" android:grantUriPermissions="true">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
+    </provider>
+    <receiver android:name="md55b291d62d9edb3fb8fcf1357ddfc72f4.ScheduledAlarmHandler" android:enabled="true"></receiver>
+    <activity android:configChanges="orientation|screenSize" android:noHistory="true" android:theme="@style/MyTheme.Splash" android:name="md5d7cff90f5d27a59c68b934431134dacc.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="iControl Eczema Plus" android:screenOrientation="portrait" android:theme="@style/MainTheme" android:name="md5b18cb59a833052d2f4c3b6dda231ea21.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md58cff868cd811b0aa5723b6ef0b24f392.LocationService" />
+    <receiver android:enabled="true" android:label="Local Notifications Plugin Broadcast Receiver" android:name="md51251ca0436b286678a1cd2c1ca81248e.ScheduledAlarmHandler" />
+    <activity android:configChanges="orientation|screenSize" android:name="md54cd65ac53ae710bff80022afc423e0f3.MediaPickerActivity" />
+    <receiver android:enabled="true" android:exported="false" android:name="md51558244f76c53b6aeda52c8a337f2c37.PowerSaveModeBroadcastReceiver" />
+    <activity android:name="md5ffa21440d43fa9f7b0ce3fc2ebd14867.MediaPickerActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.hyphenApp.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.hyphenApp" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

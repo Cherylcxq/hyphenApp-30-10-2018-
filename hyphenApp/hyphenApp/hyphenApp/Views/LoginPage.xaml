@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.LoginPage">
+    <ContentPage.Content>
+        
+        <StackLayout>
+                <!--<StackLayout x:Name="stackMain" Orientation="Horizontal" BackgroundColor="Silver" Spacing="0" Padding="10" IsVisible="true">-->
+            <Image  Source="app_logo" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100" Aspect="AspectFit" />
+            <!--<Image  Source="running_background" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="360" HeightRequest="90" Aspect="AspectFit" />-->
+
+            <Frame x:Name="frameLogin">
+                <StackLayout x:Name="stackLogin" WidthRequest="300" Spacing="10">
+                    <Entry Placeholder="Email" x:Name="txtUser" TextColor="Navy" BackgroundColor="White" FontSize="Micro" WidthRequest="300" />
+                    <Entry Placeholder="Password" x:Name="txtPass" IsPassword="true" TextColor="Navy" BackgroundColor="White" FontSize="Micro" WidthRequest="300"/>
+                    <Button Text="Login" x:Name="btnLogin" TextColor="White" BackgroundColor="Teal" BorderRadius="20" HeightRequest="40"/>
+                </StackLayout>
+            </Frame>
+
+
+            <!--<StackLayout x:Name="stackFirstTime" Padding="50" IsVisible="false">
+                    <Label x:Name="lblWelcome" Text="Welcome! It looks like you are using this app for the first time" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"  TextColor="White" />
+                </StackLayout>-->
+
+            <Frame x:Name="frameRegister">
+                <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="Center">
+                    <Button x:Name="btnRegister" Text="Tap here to create a new account" BackgroundColor="White" TextColor="Gray" FontSize="Small" />
+                </StackLayout>
+            </Frame>
+
+            <!--</StackLayout>-->
+
+            <Frame x:Name="frameCreate" IsVisible="false">
+                <StackLayout x:Name="stackCreated" Orientation="Horizontal" BackgroundColor="Silver" Spacing="0" Padding="10" >
+                    <StackLayout HeightRequest="100" WidthRequest="100">
+                    <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Source="pestdoctorhead2.png" WidthRequest="120" HeightRequest="120" Aspect="AspectFit" />
+                </StackLayout>
+                <Frame Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" OutlineColor="Transparent" HasShadow="false" BackgroundColor="White">
+                    <Label x:Name="lblHelpText" TextColor="Gray"  Text="Congratulation your account created click START button to proceed!" FontSize="Micro" LineBreakMode="WordWrap">
+                    </Label>
+                </Frame>
+                <Button Text="Start" x:Name="btnStart" Grid.Row="1" Grid.Column="0" TextColor="White" BackgroundColor="Teal" BorderRadius="20" HeightRequest="40"/>
+            </StackLayout>
+            </Frame>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="hyphenApp.Views.ChangeLanguagePage"
+             Title="Please select language">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Spacing="0">
+            <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="Center">
+                <ListView x:Name="lstLanguage" BackgroundColor="White" SeparatorVisibility="Default" SeparatorColor="Navy" RowHeight="50">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <StackLayout Padding="20,0,20,0" Orientation="Horizontal" Spacing='0' HeightRequest="50">
+                                        <Label FontSize="Small" TextColor="Black" Text="{Binding Name}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                        <controls:CheckBox Checked="{Binding Selected}" x:Name="chkLanguage" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="End" />
+                                    </StackLayout>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

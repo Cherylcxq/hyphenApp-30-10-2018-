@@ -1,0 +1,748 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+
+
+	<data name="BottomSaveButtonBar.Save" xml:space="preserve">
+	    <value>Save</value>
+	    <comment></comment>
+  	</data>
+
+
+	<data name="Common.Open" xml:space="preserve">
+	    <value>open</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month01" xml:space="preserve">
+	    <value>Jan</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month02" xml:space="preserve">
+	    <value>Feb</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month03" xml:space="preserve">
+	    <value>Mar</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month04" xml:space="preserve">
+	    <value>Apr</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month05" xml:space="preserve">
+	    <value>May</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month06" xml:space="preserve">
+	    <value>Jun</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month07" xml:space="preserve">
+	    <value>Jul</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month08" xml:space="preserve">
+	    <value>Aug</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month09" xml:space="preserve">
+	    <value>Sep</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month10" xml:space="preserve">
+	    <value>Oct</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month11" xml:space="preserve">
+	    <value>Nov</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Month12" xml:space="preserve">
+	    <value>Dec</value>
+	    <comment></comment>
+  	</data>
+	<data name="Common.Sunday" xml:space="preserve">
+	    <value>Sun</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Monday" xml:space="preserve">
+	    <value>Mon</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Tuesday" xml:space="preserve">
+	    <value>Tue</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Wednesday" xml:space="preserve">
+	    <value>Wed</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Thursday" xml:space="preserve">
+	    <value>Thu</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Friday" xml:space="preserve">
+	    <value>Fri</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Saturday" xml:space="preserve">
+	    <value>Sat</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.ErrorTitle" xml:space="preserve">
+	    <value>Oops!</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.OK" xml:space="preserve">
+	    <value>OK</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.OptionYes" xml:space="preserve">
+	    <value>Yes, go ahead</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.OptionNo" xml:space="preserve">
+	    <value>No, wait!</value>
+	    <comment></comment>
+  	</data>
+  	  	<data name="Common.Mood1" xml:space="preserve">
+	    <value>Normal</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood2" xml:space="preserve">
+	    <value>A little unhappy</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood3" xml:space="preserve">
+	    <value>Quite unhappy</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood4" xml:space="preserve">
+	    <value>Very unhappy</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Common.Mood5" xml:space="preserve">
+	    <value>Extremely unhappy</value>
+	    <comment></comment>
+  	</data>
+
+  	<data name="dReminder.RateEczema" xml:space="preserve">
+	    <value>Rate Eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ApplySteroids" xml:space="preserve">
+	    <value>Apply topical steroids</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ApplyMoisturisers" xml:space="preserve">
+	    <value>Apply moisturisers</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.OtherReminder" xml:space="preserve">
+	    <value>Other reminder</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.Day" xml:space="preserve">
+	    <value>Day(s)</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.Week" xml:space="preserve">
+	    <value>Week(s)</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.Reminder" xml:space="preserve">
+	    <value>Reminder</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ReminderFor" xml:space="preserve">
+	    <value>Reminder for</value>
+	    <comment></comment>
+  	</data>
+  	<data name="dReminder.ReminderNotification" xml:space="preserve">
+	    <value>Please open iControl Eczema to receive more notifications</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="Helper.Cancel" xml:space="preserve">
+	    <value>Cancel</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Helper.TakePhoto" xml:space="preserve">
+	    <value>Take a Photo</value>
+	    <comment></comment>
+  	</data>
+  	<data name="Helper.ChooseFromGallery" xml:space="preserve">
+	    <value>Choose from Gallery</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="BottomTabBar.Calendar" xml:space="preserve">
+	    <value>CALENDAR</value>
+	    <comment></comment>
+  	</data>
+  	<data name="BottomTabBar.Rate" xml:space="preserve">
+	    <value>RATE</value>
+	    <comment></comment>
+  	</data>
+  	<data name="BottomTabBar.Trend" xml:space="preserve">
+	    <value>TREND</value>
+	    <comment></comment>
+  	</data>
+  	<data name="BottomTabBar.Reminders" xml:space="preserve">
+	    <value>REMINDERS</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="SideBar.FamilyMembers" xml:space="preserve">
+	    <value>Family Members</value>
+	    <comment></comment>
+  	</data>
+  	<data name="SideBar.AddRandomPatient" xml:space="preserve">
+	    <value>Add Random Patient</value>
+	    <comment></comment>
+  	</data><data name="SideBar.AddFamilyMember" xml:space="preserve">
+	    <value>Add Family Member</value>
+	    <comment></comment>
+  	</data>
+	<data name="SideBar.ChangeLanguage" xml:space="preserve">
+	    <value>Change Language</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="TopBar.UpdateProfilePic" xml:space="preserve">
+	    <value>Update Profile Picture</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="DoctorListPage.EmailDear" xml:space="preserve">
+	    <value>Dear {0}</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailSubject" xml:space="preserve">
+	    <value>Eczema Condition of {0}</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailBody" xml:space="preserve">
+	    <value>Please find attached the {0} chart of the above patient's Ezcema condition.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailBody2" xml:space="preserve">
+	    <value>Chart Duration: {0}</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailWeekly" xml:space="preserve">
+	    <value>weekly</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailDaily" xml:space="preserve">
+	    <value>daily</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailWeeks" xml:space="preserve">
+	    <value>week(s)</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailDays" xml:space="preserve">
+	    <value>day(s)</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.EmailDoctor" xml:space="preserve">
+	    <value>Email Doctor</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.SendEmailFailTitle" xml:space="preserve">
+	    <value>Unable to send email</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.SendEmailFailMessage" xml:space="preserve">
+	    <value>Please set up your e-mail in your phone's settings first.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.HelpTextNoDoctors" xml:space="preserve">
+	    <value>You have no doctors in this list. Click on the + button above to add one!</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorListPage.HelpTextSelectDoctor" xml:space="preserve">
+	    <value>Select a doctor to email the chart to.</value>
+	    <comment></comment>
+  	</data>
+
+
+	<data name="DoctorPage.NamePlaceholder" xml:space="preserve">
+	    <value>Name of doctor</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.EmailPlaceholder" xml:space="preserve">
+	    <value>Email address</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ClinicPlaceholder" xml:space="preserve">
+	    <value>Clinic name</value>
+	    <comment></comment>
+  	</data>
+	<data name="DoctorPage.ContactInformation" xml:space="preserve">
+	    <value>CONTACT INFORMATION</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Name" xml:space="preserve">
+	    <value>Name</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Email" xml:space="preserve">
+	    <value>Email</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.OtherInfo" xml:space="preserve">
+	    <value>OTHER INFORMATION</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Clinic" xml:space="preserve">
+	    <value>Clinic Name</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Address" xml:space="preserve">
+	    <value>Address</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.Notes" xml:space="preserve">
+	    <value>Notes</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ModifyDoctor" xml:space="preserve">
+	    <value>Modify Doctor</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.AddDoctor" xml:space="preserve">
+	    <value>Add Doctor</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ErrorAlertMissingFields" xml:space="preserve">
+	    <value>You left out some fields:</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.ErrorAlertInvalidEmail" xml:space="preserve">
+	    <value>The email doesn't look valid. It should look like name@company.com</value>
+	    <comment></comment>
+  	</data>
+  	<data name="DoctorPage.DeleteDoctor" xml:space="preserve">
+	    <value>Delete this doctor?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="LoginPage.LoginBtn" xml:space="preserve">
+	    <value>Login</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.Welcome" xml:space="preserve">
+	    <value>Welcome! It looks like you are using this app for the first time</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.CreateAccount" xml:space="preserve">
+	    <value>Tap here to create a new account</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.LoginFailTitle" xml:space="preserve">
+	    <value>Unable to login</value>
+	    <comment></comment>
+  	</data>
+  	<data name="LoginPage.LoginFailMessage" xml:space="preserve">
+	    <value>Did you forget your username and password?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientEczemaPage.DeletePhoto" xml:space="preserve">
+	    <value>Delete this photo?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientPage.FamilyMembersParticulars" xml:space="preserve">
+	    <value>FAMILY MEMBER'S PARTICULARS</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Photo" xml:space="preserve">
+	    <value>Photo</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Choose" xml:space="preserve">
+	    <value>Choose</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Name" xml:space="preserve">
+	    <value>Name</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.DateOfBirth" xml:space="preserve">
+	    <value>Date of Birth</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.Gender" xml:space="preserve">
+	    <value>Gender</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.GenderMale" xml:space="preserve">
+	    <value>Boy</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.GenderFemale" xml:space="preserve">
+	    <value>Girl</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.UpdateFamilyMember" xml:space="preserve">
+	    <value>Update Family Member</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.AddFamilyMember" xml:space="preserve">
+	    <value>Add Family Member</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.HintHelpFirstPatient" xml:space="preserve">
+	    <value>Before using this app, please fill up the info of a family member who suffers from eczema.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.HintHelpPatient" xml:space="preserve">
+	    <value>Please fill up the info of a family member who suffers from eczema.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.UpdateProfilePic" xml:space="preserve">
+	    <value>Update Profile Picture</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.DeleteFamilyMember" xml:space="preserve">
+	    <value>Delete family member and all Eczema ratings?</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.ErrorMissingFields" xml:space="preserve">
+	    <value>You left out some fields: </value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientPage.ErrorInvalidDateOfBirth" xml:space="preserve">
+	    <value>The birthday cannot be later than today.</value>
+	    <comment></comment>
+  	</data>
+
+  	<data name="PatientEczemaPhotoPage.Title" xml:space="preserve">
+	    <value>Photo</value>
+	    <comment></comment>
+  	</data>
+
+  	<data name="PatientReminderPage.OthersPlaceHolder" xml:space="preserve">
+	    <value>Enter description</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Title" xml:space="preserve">
+	    <value>Reminder List</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.TitleAddReminder" xml:space="preserve">
+	    <value>Add Reminder</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.TitleUpdateReminder" xml:space="preserve">
+	    <value>Update Reminder</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.RemindMeTo" xml:space="preserve">
+	    <value>REMIND ME TO</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Frequency" xml:space="preserve">
+	    <value>FREQUENCY</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Starts" xml:space="preserve">
+	    <value>Starts</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.Ends" xml:space="preserve">
+	    <value>Ends</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.RemindEvery" xml:space="preserve">
+	    <value>Remind Every </value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.TimesOfTheDay" xml:space="preserve">
+	    <value>TIMES OF THE DAY</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.AddTime" xml:space="preserve">
+	    <value>+ Add Time</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.DaysOfTheWeek" xml:space="preserve">
+	    <value>DAYS OF THE WEEK</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorInvalideStartEndDates" xml:space="preserve">
+	    <value>Your start date must be earlier than your end date.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorMissingTimeOfDay" xml:space="preserve">
+	    <value>You must have at least 1 time of the day added.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorMissingDayOfWeek" xml:space="preserve">
+	    <value>You must have at least 1 day of the week selected.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderPage.ErrorMissingReminderDescription" xml:space="preserve">
+	    <value>You must enter a reminder description.</value>
+	    <comment></comment>
+  	</data>
+	<data name="PatientReminderPage.DeleteReminder" xml:space="preserve">
+	    <value>Delete this reminder?</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientTabPage.Master" xml:space="preserve">
+	    <value>Master</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.PatientDetails" xml:space="preserve">
+	    <value>Patient Details</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateAppMessage" xml:space="preserve">
+	    <value>Take a moment to rate iControl Eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateApp" xml:space="preserve">
+	    <value>Rate iControl Ezcema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateAppRemindLater" xml:space="preserve">
+	    <value>Remind me again later</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTabPage.RateAppDontRemind" xml:space="preserve">
+	    <value>No, don't remind me again</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="UserPage.CreateAccount" xml:space="preserve">
+	    <value>Create a new account</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.LoginName" xml:space="preserve">
+	    <value>LOGIN NAME</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.Password" xml:space="preserve">
+	    <value>PASSWORD</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.Cancel" xml:space="preserve">
+	    <value>No thanks, I already have an account.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.TapSave" xml:space="preserve">
+	    <value>By tapping Save, I agree to the </value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.TermsAndConditions" xml:space="preserve">
+	    <value>Terms and Conditions</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.MissingFields" xml:space="preserve">
+	    <value>You left out some fields.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.LoginAlreadyExists" xml:space="preserve">
+	    <value>A user with the same login name already exists.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserPage.PasswordsMismatch" xml:space="preserve">
+	    <value>Both passwords must match.</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="UserTOSPage.TermsAndConditions" xml:space="preserve">
+	    <value>Terms and Conditions</value>
+	    <comment></comment>
+  	</data>
+  	<data name="UserTOSPage.CompletedRead" xml:space="preserve">
+	    <value>Ok, I've read it.</value>
+	    <comment></comment>
+  	</data>
+
+  	<data name="PatientCalendarTabView.ShortSunday" xml:space="preserve">
+	    <value>S</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortMonday" xml:space="preserve">
+	    <value>M</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortTuesday" xml:space="preserve">
+	    <value>T</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortWednesday" xml:space="preserve">
+	    <value>W</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortThursday" xml:space="preserve">
+	    <value>T</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortFriday" xml:space="preserve">
+	    <value>F</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.ShortSaturday" xml:space="preserve">
+	    <value>S</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.Calendar" xml:space="preserve">
+	    <value>Calendar</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientCalendarTabView.TapDate" xml:space="preserve">
+	    <value>Tap on a date to rate or view details</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientEczemaTabView.RateFeeling" xml:space="preserve">
+	    <value>HOW DID YOU FEEL?</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.DoctorHint" xml:space="preserve">
+	    <value>Tap on one of the emoticons above to rate your Eczema for the day. After that, you can also add photos and take additional notes.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.Photos" xml:space="preserve">
+	    <value>PHOTOS</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.AddPhoto" xml:space="preserve">
+	    <value>+ Photo</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.WhatDidYouDo" xml:space="preserve">
+	    <value>WHAT DID YOU DO?</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.ApplySteroids" xml:space="preserve">
+	    <value>Applied topical steroids</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.ApplyMoisturiser" xml:space="preserve">
+	    <value>Applied moisturizer</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.Others" xml:space="preserve">
+	    <value>Others</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.Notes" xml:space="preserve">
+	    <value>NOTES</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.PickPhoto" xml:space="preserve">
+	    <value>Add Photo</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.RateEczema" xml:space="preserve">
+	    <value>Rate Eczema</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientEczemaTabView.DeleteRecord" xml:space="preserve">
+	    <value>Delete this record?</value>
+	    <comment></comment>
+  	</data>
+
+  	<data name="PatientReminderListTabView.FrequencyTypeLabel" xml:space="preserve">
+	    <value>   Every</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.TimesOfDayLabel" xml:space="preserve">
+	    <value>   At</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.DaysOfWeekLabel" xml:space="preserve">
+	    <value>   On</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.Reminders" xml:space="preserve">
+	    <value>Reminders</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientReminderListTabView.HintHelp" xml:space="preserve">
+	    <value>You have no reminders set up. Click on the + button above to add one!</value>
+	    <comment></comment>
+  	</data>
+
+
+  	<data name="PatientTrendChartTabView.Days" xml:space="preserve">
+	    <value>Days</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.Weeks" xml:space="preserve">
+	    <value>Weeks</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.ShowTheLast" xml:space="preserve">
+	    <value>Show the last </value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.EmailDoctor" xml:space="preserve">
+	    <value>Email Chart to Doctor</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.HintHelp" xml:space="preserve">
+	    <value>Show this chart to your doctor during your next visit.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.Photos" xml:space="preserve">
+	    <value>PHOTOS</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.ViewRecord" xml:space="preserve">
+	    <value>View Record</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.NoPhotos" xml:space="preserve">
+	    <value>No photos available.</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.ViewChart" xml:space="preserve">
+	    <value>View Chart</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.WeeklyAverage" xml:space="preserve">
+	    <value>Weekly Average</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.Daily" xml:space="preserve">
+	    <value>Daily</value>
+	    <comment></comment>
+  	</data>
+  	<data name="PatientTrendChartTabView.EczemaChartFor" xml:space="preserve">
+	    <value> Eczema Chart for </value>
+	    <comment></comment>
+  	</data>
+
+</root>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.TrendPage"
+            Title="Trend Chart">
+    <ContentPage.ToolbarItems>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <BoxView HeightRequest="1" Color="Silver">
+            </BoxView>
+            <StackLayout Orientation="Horizontal" Padding="0,0,0,0" HeightRequest="55" BackgroundColor="Silver" HorizontalOptions="FillAndExpand">
+                <Grid BackgroundColor="Transparent" HorizontalOptions="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="55" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="80" />
+                        <ColumnDefinition Width="65" />
+                        <ColumnDefinition Width="65" />
+                        <ColumnDefinition Width="65" />
+                        <ColumnDefinition Width="1" />
+                        <ColumnDefinition Width="65" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Row="0" Grid.Column="0" BackgroundColor="#66cde6" HorizontalOptions="Start">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="12" />
+                            <RowDefinition Height="35" />
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="80" />
+                        </Grid.ColumnDefinitions>
+
+                        <Label x:Name="tbName" Text="" Grid.Row="0" Grid.Column="0" FontSize="Micro" HorizontalOptions="Center" VerticalOptions="Start" TextColor="Black" BackgroundColor="Transparent"/>
+                        <Image x:Name="imgProfile" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="35" HeightRequest="35" Aspect="AspectFill"></Image>
+                        <Image Source="circle" Grid.Row="1" Grid.Column="0" WidthRequest = "35" HeightRequest = "35" HorizontalOptions="Center" VerticalOptions="Start" />
+                    </Grid>
+                    <!--<BoxView HeightRequest="1"  Grid.Row="0" Grid.Column="1" Color="#d9d9d9">
+                    </BoxView>-->
+
+                    <Image x:Name="imgLocation" Source="icon_location.png" Grid.Row="0" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="40" HeightRequest="40" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Location_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Label x:Name="lblLocation" FontSize="Micro" Grid.Row="0" Grid.Column="1" TextColor="Navy" Text="Where to buy" WidthRequest="60" VerticalOptions="End" HorizontalOptions="Center" />
+
+                    <Image x:Name="imgReward" Source="icon_reward.png" Grid.Row="0" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="40" HeightRequest="40" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Reward_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Label x:Name="lblReward" FontSize="Micro" Grid.Row="0" Grid.Column="2" TextColor="Navy" Text="Reward" WidthRequest="50" VerticalOptions="End" HorizontalOptions="End" />
+
+                    <Image x:Name="imgSetting" Source="icon_setting.png" Grid.Row="0" Grid.Column="3" HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="40" HeightRequest="40" Aspect="AspectFit">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Setting_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Label x:Name="lblSetting" FontSize="Micro" Grid.Row="0" Grid.Column="3" TextColor="Navy" Text="Setting" WidthRequest="50" VerticalOptions="End" HorizontalOptions="End" />
+
+                    <BoxView HeightRequest="1"  Grid.Row="0" Grid.Column="4" Color="#d9d9d9">
+                    </BoxView>
+                </Grid>
+            </StackLayout>
+            <Grid VerticalOptions="FillAndExpand" BackgroundColor="Red" RowSpacing="0" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="1"></RowDefinition>
+                    <RowDefinition Height="135"></RowDefinition>
+                </Grid.RowDefinitions>
+
+
+
+                <StackLayout Grid.Row="0" Grid.Column="0" VerticalOptions="FillAndExpand" Orientation="Vertical" BackgroundColor="White" Spacing="0">
+                    <!--Page content goes here-->
+
+                    <StackLayout VerticalOptions="Start" MinimumHeightRequest="40" Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="50" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                        <StackLayout VerticalOptions="Center" Padding="0,0,10,0" >
+                            <Label x:Name="lblShowTheLast" Text="Show the last " FontSize="16" TextColor="#808080" />
+                        </StackLayout>
+                        <StackLayout VerticalOptions="Center" Orientation="Horizontal" Spacing="0">
+                            <Picker HorizontalOptions="End" x:Name="pickPeriod" FontSize="16" TextColor="Blue" WidthRequest="35" />
+                            <Image Source="pickerdown" WidthRequest="12" HeightRequest="12" VerticalOptions="Center" HorizontalOptions="Start" />
+                            <BoxView WidthRequest="10" />
+                            <Picker HorizontalOptions="End" x:Name="pickChartMode" FontSize="16" TextColor="Blue" WidthRequest="55" />
+                            <Image Source="pickerdown" WidthRequest="12" HeightRequest="12" VerticalOptions="Center" HorizontalOptions="Start" />
+                            <BoxView WidthRequest="10" />
+                            <Picker HorizontalOptions="End" x:Name="pickChartType" FontSize="16" TextColor="Blue" WidthRequest="55" />
+                            <Image Source="pickerdown" WidthRequest="12" HeightRequest="12" VerticalOptions="Center" HorizontalOptions="Start" />
+                        </StackLayout>
+                    </StackLayout>
+
+                    <BoxView HeightRequest="1" Color="#d9d9d9">
+                    </BoxView>
+
+                    <WebView x:Name="wv"  VerticalOptions="FillAndExpand" BackgroundColor="White"  >
+                    </WebView>
+
+                    <WebView x:Name="wv2" HeightRequest="5" BackgroundColor="White"  >
+                    </WebView>
+
+
+                    <StackLayout Orientation="Vertical" VerticalOptions="End" Padding="3">
+                        <Button Text="Email Chart to Doctor" FontSize="Small" x:Name="btnDoctor" BorderRadius="20" HeightRequest="40" BackgroundColor="White" TextColor="Blue" />
+                    </StackLayout>
+                </StackLayout>
+
+                <BoxView Grid.Row="1" Grid.Column="0" HeightRequest="1" Color="#d9d9d9">
+                </BoxView>
+
+                <Grid Grid.Row="2" Grid.Column="0" HeightRequest="125" BackgroundColor="#f2f2f2" IsClippedToBounds="true">
+                    <StackLayout x:Name="stackHelpText" Orientation="Horizontal" Spacing="0" Padding="10" >
+                        <StackLayout HeightRequest="100" WidthRequest="100">
+                            <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Source="pestdoctorhead2.png" WidthRequest="120" HeightRequest="120" Aspect="AspectFit" />
+                        </StackLayout>
+                        <Frame Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" OutlineColor="Silver" HasShadow="false" BackgroundColor="White">
+                            <Label x:Name="lblHelpText" TextColor="Gray" FontSize="Micro" Text="Show this chart to your doctor during your next visit." LineBreakMode="WordWrap">
+                            </Label>
+                        </Frame>
+                    </StackLayout>
+                    <!--<StackLayout>
+                    <custom:DoctorHint x:Name="hintHelpText" Text="Show this chart to your doctor during your next visit." />
+                </StackLayout>-->
+
+                    <ContentView x:Name="hwDetails">
+                        <StackLayout x:Name="stackDetails" Spacing="0">
+
+                            <StackLayout Orientation="Horizontal" VerticalOptions="End" HeightRequest="40" BackgroundColor="#f2f2f2" HorizontalOptions="FillAndExpand">
+                                <StackLayout VerticalOptions="Center" Padding="20,0,20,0" Orientation="Horizontal" HorizontalOptions="FillAndExpand" >
+                                    <Label x:Name="lblDate" VerticalOptions="Center" Text="PHOTOS" FontSize="13" TextColor="#808080" HorizontalOptions="StartAndExpand" />
+                                    <Button x:Name="btnDetails" VerticalOptions="Center" HorizontalOptions="End" Text="View Record" FontSize="Small" BorderRadius="0" BackgroundColor="Transparent" TextColor="Blue" />
+                                </StackLayout>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+
+                            <StackLayout x:Name="stackPhotosContainer" Spacing="0" Orientation="Vertical" VerticalOptions="End" MinimumHeightRequest="90" HeightRequest="90" BackgroundColor="White">
+                                <Label x:Name="lblNoPhotos" Text="No photos available." IsVisible="false" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="#808080" ></Label>
+                                <ScrollView x:Name="scvPhotos" Orientation="Horizontal" IsVisible="false" HorizontalOptions="Fill" VerticalOptions="Fill" MinimumHeightRequest="90" HeightRequest="90" >
+                                    <StackLayout x:Name="stackPhotos" Orientation="Horizontal" Spacing="10" MinimumHeightRequest="70" HeightRequest="70" Padding="20, 10, 20, 10">
+                                    </StackLayout>
+                                </ScrollView>
+                            </StackLayout>
+
+                            <BoxView HeightRequest="1" Color="#d9d9d9">
+                            </BoxView>
+                        </StackLayout>
+                    </ContentView>
+                </Grid>
+            </Grid>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

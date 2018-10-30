@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.PointsHistoryPage"
+              Title="Points History">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="Center">
+                <ListView x:Name="pointsHistory" BackgroundColor="White" SeparatorVisibility="Default" SeparatorColor="White" RowHeight="100">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <StackLayout Padding="20,0,20,0" Orientation="Horizontal" Spacing='10' HeightRequest="100">
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*" />
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <Grid Grid.Row="0" Grid.Column="0"  WidthRequest="60">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                                </Grid.ColumnDefinitions>
+                                                <Label FontSize="Micro" Grid.Row="0" Grid.Column="0" TextColor="Navy" Text="{Binding Company}" LineBreakMode="WordWrap" WidthRequest="60" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                                <Label FontSize="Micro" Grid.Row="1" Grid.Column="0" TextColor="Green" Text="{Binding Amount}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                            </Grid>
+                                            <Grid Grid.Row="0" Grid.Column="1"  WidthRequest="200">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                                </Grid.ColumnDefinitions>
+                                                <Label FontSize="Micro" Grid.Row="0" Grid.Column="0" TextColor="Navy" Text="{Binding Date}" WidthRequest="150" VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+                                                <BoxView HeightRequest="1" Grid.Row="1" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand" Color="Navy"></BoxView>
+                                                <Label FontSize="Small" Grid.Row="2" Grid.Column="0" TextColor="Black" Text="{Binding Points}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                                            </Grid>
+                                            <Image  Source="points_icon.png"  Grid.Row="0" Grid.Column="2" HorizontalOptions="End" VerticalOptions="Start" WidthRequest="30" HeightRequest="30" Aspect="AspectFit" >
+                                            </Image>
+                                            <!--<Button Text="Redeem" x:Name="btnRedemption" Grid.Row="0" Grid.Column="3" FontSize="Micro" BackgroundColor="White" HorizontalOptions="Center"  TextColor="Navy"  />-->
+
+                                        </Grid>
+                                        <!--<custom:CheckBox IsChecked="{Binding Selected}" x:Name="chkLanguage" WidthRequest="16" HeightRequest="16" VerticalOptions="Center" HorizontalOptions="End" />-->
+                                    </StackLayout>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

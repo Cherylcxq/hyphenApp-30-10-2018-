@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.PatientEczemaPhotoPage">
+    <ContentPage.Content>
+
+            <StackLayout Orientation="Vertical" BackgroundColor="#EEEEEE" Spacing="0" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
+
+                <WebView x:Name="webView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+             
+                <StackLayout x:Name="stackScrollPhotos" BackgroundColor="White" Padding="10,10,10,10" Spacing="5" HeightRequest="70" >
+                    <ScrollView x:Name="scvPhotos" Orientation="Horizontal">
+                        <StackLayout x:Name="stackPhotos" Orientation="Horizontal" Spacing="10" />
+                    </ScrollView>
+                </StackLayout>
+            </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

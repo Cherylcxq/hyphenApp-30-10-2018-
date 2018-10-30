@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.TestPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <WebView x:Name="webView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+            <Label Text="Test Page"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="txtWrite" Text="" FontSize="Small" />
+            <Button Text="Write" x:Name="btnWrite" Clicked="Write_Clicked" FontSize="Small" BackgroundColor="Blue" HeightRequest="20" TextColor="White"  VerticalOptions="EndAndExpand" />
+
+            <Label x:Name="lbName" Text="" LineBreakMode = "WordWrap" FontSize="Small" VerticalOptions="Center" BackgroundColor="White" HeightRequest="50" TextColor="Blue"/>
+            <Button Text="Read" x:Name="btnRead" Clicked="Read_Clicked" FontSize="Small" BackgroundColor="Blue" HeightRequest="20" TextColor="White"  VerticalOptions="EndAndExpand" />
+            <Button Text="Delete" x:Name="btnDelete" Clicked="Delete_Clicked" FontSize="Small" BackgroundColor="Blue" HeightRequest="20" TextColor="White"  VerticalOptions="EndAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

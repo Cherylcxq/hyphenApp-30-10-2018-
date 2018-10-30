@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.ScanPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "back_caption.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView x:Name="scvForm" VerticalOptions="StartAndExpand" BackgroundColor="White">
+                <StackLayout VerticalOptions="FillAndExpand" Spacing="0" BackgroundColor="White" >
+                    <BoxView HeightRequest="5" Color="Silver">
+                    </BoxView>
+                    <StackLayout>
+                        <Frame x:Name="HeaderFrame0" OutlineColor="Gray">
+                            <Grid Padding =" 20,0,0,0" RowSpacing="20" ColumnSpacing="20">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Text="Ensure capture name, amount and date" x:Name="tbStatus" Grid.Row="0" Grid.Column="0" FontSize="Small" LineBreakMode = "WordWrap" BackgroundColor="White" WidthRequest="110" HeightRequest="90" TextColor="Blue"  VerticalOptions="EndAndExpand" />
+                                <Button Text="Take Picture" x:Name="btnScanPic" Grid.Row="0" Grid.Column="1" FontSize="Small" BackgroundColor="White" HorizontalOptions="Center" HeightRequest="72" WidthRequest="72" TextColor="Navy"  />
+                                <Button Text="Pick Photo" x:Name="btnPickPic" Grid.Row="1" Grid.Column="1" FontSize="Small" BackgroundColor="White" HorizontalOptions="Center"  HeightRequest="72" WidthRequest="72" TextColor="Navy"  />
+                                <Image x:Name="image"/>
+                            </Grid>
+                        </Frame>
+                       
+                        <Frame x:Name="HeaderFrame1" OutlineColor="Silver">
+                            <Grid Padding =" 20,0,0,0" RowSpacing="20" ColumnSpacing="20">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Button Text="Scan" x:Name="btnRotate" Grid.Row="0" Grid.Column="0" FontSize="Small" BackgroundColor="White" HorizontalOptions="Center" Image="rotation.png" HeightRequest="80" WidthRequest="80" TextColor="Navy"  />
+                                <Button x:Name="bottomSendButtonBar" FontSize="Small" Image="uploading.png"  Grid.Row="0" Grid.Column="1" BackgroundColor="White" HeightRequest="80" TextColor="Blue"  HorizontalOptions="Center" VerticalOptions="Center" />
+
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="HeaderFrame2" OutlineColor="Silver">
+                            <!--<Image x:Name="imgScan" WidthRequest="300" HeightRequest = "400" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>-->
+                        </Frame>
+                        <Frame x:Name="HeaderFrame3" OutlineColor="White">
+                            <!--<Image x:Name="imgFrame" WidthRequest="250" Source="scan_menu.png" HeightRequest = "250" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>-->
+                        </Frame>
+                        <Frame x:Name="HeaderFrame4" OutlineColor="White">
+                            <Image x:Name="imgProcessing" WidthRequest="250" Source="execution.png" HeightRequest = "65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                        </Frame>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

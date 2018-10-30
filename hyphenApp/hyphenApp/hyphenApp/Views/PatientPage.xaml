@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="hyphenApp.Views.PatientPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Clicked="Save_Clicked"/>
+        <ToolbarItem  x:Name="closeButton" Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Spacing="0" >
+            <Grid VerticalOptions="FillAndExpand" >
+                <ScrollView x:Name="scvForm" VerticalOptions="StartAndExpand" BackgroundColor="White">
+                    <StackLayout VerticalOptions="FillAndExpand" Spacing="0" BackgroundColor="White" >
+
+                        <StackLayout x:Name="stackHelpText" Orientation="Horizontal" BackgroundColor="Silver" Spacing="0" Padding="10" >
+                            <StackLayout HeightRequest="100" WidthRequest="100">
+                                <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Source="pestdoctorhead2.png" WidthRequest="120" HeightRequest="120" Aspect="AspectFit" />
+                            </StackLayout>
+                            <Frame Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" OutlineColor="Transparent" HasShadow="false" BackgroundColor="White">
+                                <Label x:Name="lblHelpText" TextColor="Gray"  Text="Welcome! It looks like you are using this app for the first time" FontSize="Micro" LineBreakMode="WordWrap">
+                                </Label>
+                            </Frame>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal" HeightRequest="40">
+                            <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                                <Label x:Name="lblFamilyMembersParticulars" Text="FAMILY MEMBER'S PARTICULARS" FontSize="Small" TextColor="Gray" />
+                            </StackLayout>
+                        </StackLayout>
+
+                        <BoxView HeightRequest="1" Color="Red">
+                        </BoxView>
+
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="95" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Center" Padding="0,12,0,0" Orientation="Horizontal">
+                                <Label x:Name="lblPhoto" Text="Photo" FontSize="Medium" VerticalOptions="Start" TextColor="Black" WidthRequest="120" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                <Grid HeightRequest="75" WidthRequest="75">
+                                    <Image BackgroundColor="White" x:Name="imgProfile" HeightRequest="75" WidthRequest="75" Aspect="AspectFill" />
+                                    <StackLayout>
+
+                                        <!--<BoxView Color="Red" Opacity="0.5" HorizontalOptions="FillAndExpand" HeightRequest="30" VerticalOptions="EndAndExpand" />-->
+                                    </StackLayout>
+                                    <!--<Image Source="circleframesideselected" WidthRequest = "40" HeightRequest = "40" />-->
+                                    
+                                </Grid>
+                                <StackLayout>
+                                    <Grid BackgroundColor="Transparent">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto" />
+                                        </Grid.RowDefinitions>
+
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Image x:Name="imgCamera" Source="icon_camera.png"  Grid.Row="0" Grid.Column="0"  HorizontalOptions="Center" WidthRequest="40" HeightRequest="40" Aspect="AspectFit">
+                                            <Image.GestureRecognizers>
+                                                <TapGestureRecognizer Tapped="Camera_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                                            </Image.GestureRecognizers>
+                                        </Image>
+                                        <Image x:Name="imgPick" Source="pick_icon.png"  Grid.Row="0" Grid.Column="1"  HorizontalOptions="Center" WidthRequest="70" HeightRequest="70" Aspect="AspectFit">
+                                            <Image.GestureRecognizers>
+                                                <TapGestureRecognizer Tapped="Pick_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                                            </Image.GestureRecognizers>
+                                        </Image>
+                                    </Grid>
+                                    <!--<Button Text="Choose" x:Name="btnProfilePic" FontSize="Small" BackgroundColor="Transparent" HeightRequest="30" TextColor="Blue"  VerticalOptions="EndAndExpand" />-->
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+
+                        <!--<BoxView HeightRequest="1" Color="Red">
+                        </BoxView>-->
+
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Center" Orientation="Horizontal">
+                                <Label x:Name="lblName" Text="Name*" FontSize="Medium" TextColor="Black" WidthRequest="120" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                <Entry Placeholder="Name" x:Name="tbName" FontSize="Medium" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Blue"></Entry >
+                            </StackLayout>
+                        </StackLayout>
+
+
+                        <!--<BoxView HeightRequest="1" Color="Red">
+                        </BoxView>-->
+
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Center" Orientation="Horizontal">
+                                <Label x:Name="lblDateOfBirth" Text="Date of Birth*" FontSize="Medium" TextColor="Black" WidthRequest="120" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                <DatePicker  HorizontalOptions="FillAndExpand" x:Name="dpBirthday" Format="dd-MMM-yyyy" FontSize="16" TextColor="Blue" />
+                            </StackLayout>
+                        </StackLayout>
+
+                        <BoxView HeightRequest="1" Color="#d9d9d9">
+                        </BoxView>
+
+                        <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="180" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Start" Orientation="Horizontal" Padding="0,12,0,0" >
+                                <Label x:Name="lblGender" Text="Gender*" FontSize="Medium" TextColor="Black" WidthRequest="120" />
+                            </StackLayout>
+                            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal" Spacing="0">
+                                <StackLayout x:Name="stackMale" Orientation="Vertical" HeightRequest="170" Padding="10,0,0,0">
+                                    <Image Source="genderboy" WidthRequest="80" HeightRequest="80" />
+                                    <Label x:Name="lblMale" Text="Boy" FontSize="Medium" TextColor="Black" HorizontalOptions="CenterAndExpand"  HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkMale" WidthRequest="16" HeightRequest="16" />
+                                </StackLayout>
+
+                                <StackLayout x:Name="stackFemale" Orientation="Vertical" HeightRequest="170" Padding="10,0,0,0">
+                                    <Image Source="gendergirl" WidthRequest="80" HeightRequest="80" />
+                                    <Label x:Name="lblFemale" Text="Girl" FontSize="Medium" TextColor="Black" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" />
+                                    <controls:CheckBox x:Name="chkFemale" WidthRequest="16" HeightRequest="16" />
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+
+                        <BoxView HeightRequest="1" Color="Red">
+                        </BoxView>
+                        <StackLayout HeightRequest="150" />
+                    </StackLayout>
+                </ScrollView>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

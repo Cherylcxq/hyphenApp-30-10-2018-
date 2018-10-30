@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BottomSaveButtonBar.Save" xml:space="preserve">
+    <value>Simpan</value>
+  </data>
+  <data name="BottomTabBar.Calendar" xml:space="preserve">
+    <value>KALENDER</value>
+  </data>
+  <data name="BottomTabBar.Rate" xml:space="preserve">
+    <value>MENILAI</value>
+  </data>
+  <data name="BottomTabBar.Reminders" xml:space="preserve">
+    <value>PENGINGAT</value>
+  </data>
+  <data name="BottomTabBar.Trend" xml:space="preserve">
+    <value>KECENDERUNGAN</value>
+  </data>
+  <data name="Common.ErrorTitle" xml:space="preserve">
+    <value>Ups!</value>
+  </data>
+  <data name="Common.Friday" xml:space="preserve">
+    <value>Jum</value>
+  </data>
+  <data name="Common.Monday" xml:space="preserve">
+    <value>Sen</value>
+  </data>
+  <data name="Common.Month01" xml:space="preserve">
+    <value>Jan</value>
+  </data>
+  <data name="Common.Month02" xml:space="preserve">
+    <value>Feb</value>
+  </data>
+  <data name="Common.Month03" xml:space="preserve">
+    <value>Mar</value>
+  </data>
+  <data name="Common.Month04" xml:space="preserve">
+    <value>Apr</value>
+  </data>
+  <data name="Common.Month05" xml:space="preserve">
+    <value>Mei</value>
+  </data>
+  <data name="Common.Month06" xml:space="preserve">
+    <value>Jun</value>
+  </data>
+  <data name="Common.Month07" xml:space="preserve">
+    <value>Jul</value>
+  </data>
+  <data name="Common.Month08" xml:space="preserve">
+    <value>Agu</value>
+  </data>
+  <data name="Common.Month09" xml:space="preserve">
+    <value>Sep</value>
+  </data>
+  <data name="Common.Month10" xml:space="preserve">
+    <value>Okt</value>
+  </data>
+  <data name="Common.Month11" xml:space="preserve">
+    <value>Nov</value>
+  </data>
+  <data name="Common.Month12" xml:space="preserve">
+    <value>Des</value>
+  </data>
+  <data name="Common.Mood1" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="Common.Mood2" xml:space="preserve">
+    <value>Sedikit tidak bahagia</value>
+  </data>
+  <data name="Common.Mood3" xml:space="preserve">
+    <value>cukup tidak bahagia</value>
+  </data>
+  <data name="Common.Mood4" xml:space="preserve">
+    <value>Sangat tidak bahagia</value>
+  </data>
+  <data name="Common.Mood5" xml:space="preserve">
+    <value>sangat tidak bahagia sekali</value>
+  </data>
+  <data name="Common.OK" xml:space="preserve">
+    <value>baik</value>
+  </data>
+  <data name="Common.Open" xml:space="preserve">
+    <value>Buka</value>
+  </data>
+  <data name="Common.OptionNo" xml:space="preserve">
+    <value>Tidak, tunggu!</value>
+  </data>
+  <data name="Common.OptionYes" xml:space="preserve">
+    <value>Ya, silahkan</value>
+  </data>
+  <data name="Common.Saturday" xml:space="preserve">
+    <value>Sab</value>
+  </data>
+  <data name="Common.Sunday" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="Common.Thursday" xml:space="preserve">
+    <value>Kam</value>
+  </data>
+  <data name="Common.Tuesday" xml:space="preserve">
+    <value>Sel</value>
+  </data>
+  <data name="Common.Wednesday" xml:space="preserve">
+    <value>Rab</value>
+  </data>
+  <data name="DoctorListPage.EmailBody" xml:space="preserve">
+    <value>Lampiran {0} grafik dari kondisi ezcema pasien di atas ini.</value>
+  </data>
+  <data name="DoctorListPage.EmailBody2" xml:space="preserve">
+    <value>Durasi Grafik : {0}</value>
+  </data>
+  <data name="DoctorListPage.EmailDaily" xml:space="preserve">
+    <value>harian</value>
+  </data>
+  <data name="DoctorListPage.EmailDays" xml:space="preserve">
+    <value>hari</value>
+  </data>
+  <data name="DoctorListPage.EmailDear" xml:space="preserve">
+    <value>Dengan Hormat {0}</value>
+  </data>
+  <data name="DoctorListPage.EmailDoctor" xml:space="preserve">
+    <value>email Dokter</value>
+  </data>
+  <data name="DoctorListPage.EmailDoctor1" xml:space="preserve">
+    <value>Email Dokter</value>
+  </data>
+  <data name="DoctorListPage.EmailSubject" xml:space="preserve">
+    <value>Kondisi Eksim {0}</value>
+  </data>
+  <data name="DoctorListPage.EmailWeekly" xml:space="preserve">
+    <value>mingguan</value>
+  </data>
+  <data name="DoctorListPage.EmailWeeks" xml:space="preserve">
+    <value>minggu</value>
+  </data>
+  <data name="DoctorListPage.HelpTextNoDoctors" xml:space="preserve">
+    <value>Kamu tidak memiliki dokter dalam daftar ini. Klik pada tombol + di atas untuk menambahkan satu!</value>
+  </data>
+  <data name="DoctorListPage.HelpTextSelectDoctor" xml:space="preserve">
+    <value>Pilih dokter untuk email grafik</value>
+  </data>
+  <data name="DoctorListPage.SendEmailFailMessage" xml:space="preserve">
+    <value>Siapkan e-mail di pengaturan telepon kamu.</value>
+  </data>
+  <data name="DoctorListPage.SendEmailFailTitle" xml:space="preserve">
+    <value>Tidak dapat mengirim email</value>
+  </data>
+  <data name="DoctorPage.AddDoctor" xml:space="preserve">
+    <value>Tambahkan Dokter</value>
+  </data>
+  <data name="DoctorPage.Address" xml:space="preserve">
+    <value>Alamat</value>
+  </data>
+  <data name="DoctorPage.Clinic" xml:space="preserve">
+    <value>Nama klinik</value>
+  </data>
+  <data name="DoctorPage.ClinicPlaceholder" xml:space="preserve">
+    <value>nama klinik</value>
+  </data>
+  <data name="DoctorPage.ContactInformation" xml:space="preserve">
+    <value>KONTAK INFORMASI</value>
+  </data>
+  <data name="DoctorPage.DeleteDoctor" xml:space="preserve">
+    <value>Hapus dokter ini?</value>
+  </data>
+  <data name="DoctorPage.Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="DoctorPage.EmailPlaceholder" xml:space="preserve">
+    <value>Alamat email</value>
+  </data>
+  <data name="DoctorPage.ErrorAlertInvalidEmail" xml:space="preserve">
+    <value>email tidak terlihat valid. Seharusnya terlihat seperti name@company.com</value>
+  </data>
+  <data name="DoctorPage.ErrorAlertMissingFields" xml:space="preserve">
+    <value>Kamu melewatkan beberapa kolom:</value>
+  </data>
+  <data name="DoctorPage.ModifyDoctor" xml:space="preserve">
+    <value>Modifikasi Dokter</value>
+  </data>
+  <data name="DoctorPage.Name" xml:space="preserve">
+    <value>Nama</value>
+  </data>
+  <data name="DoctorPage.NamePlaceholder" xml:space="preserve">
+    <value>Nama dokter</value>
+  </data>
+  <data name="DoctorPage.Notes" xml:space="preserve">
+    <value>Catatan</value>
+  </data>
+  <data name="DoctorPage.OtherInfo" xml:space="preserve">
+    <value>INFORMASI LAINNYA</value>
+  </data>
+  <data name="dReminder.ApplyMoisturisers" xml:space="preserve">
+    <value>Gunakan pelembab</value>
+  </data>
+  <data name="dReminder.ApplySteroids" xml:space="preserve">
+    <value>Gunakan steroid topikal</value>
+  </data>
+  <data name="dReminder.Day" xml:space="preserve">
+    <value>Hari</value>
+  </data>
+  <data name="dReminder.OtherReminder" xml:space="preserve">
+    <value>pengingat lain</value>
+  </data>
+  <data name="dReminder.RateEczema" xml:space="preserve">
+    <value>tingkat Eksim</value>
+  </data>
+  <data name="dReminder.Reminder" xml:space="preserve">
+    <value>Peringatan</value>
+  </data>
+  <data name="dReminder.ReminderFor" xml:space="preserve">
+    <value>Pengingat untuk</value>
+  </data>
+  <data name="dReminder.ReminderNotification" xml:space="preserve">
+    <value>Silahkan buka iControl Eczema untuk menerima notifikasi </value>
+  </data>
+  <data name="dReminder.Week" xml:space="preserve">
+    <value>Minggu</value>
+  </data>
+  <data name="Helper.Cancel" xml:space="preserve">
+    <value>Batal</value>
+  </data>
+  <data name="Helper.ChooseFromGallery" xml:space="preserve">
+    <value>Pilih dari Galeri</value>
+  </data>
+  <data name="Helper.TakePhoto" xml:space="preserve">
+    <value>Mengambil foto</value>
+  </data>
+  <data name="LoginPage.CreateAccount" xml:space="preserve">
+    <value>Klik di sini untuk membuat akun baru</value>
+  </data>
+  <data name="LoginPage.LoginBtn" xml:space="preserve">
+    <value>Masuk</value>
+  </data>
+  <data name="LoginPage.LoginFailMessage" xml:space="preserve">
+    <value>Apakah kamu lupa nama pengguna dan kata sandi?</value>
+  </data>
+  <data name="LoginPage.LoginFailTitle" xml:space="preserve">
+    <value>Tidak dapat login</value>
+  </data>
+  <data name="LoginPage.Welcome" xml:space="preserve">
+    <value>SELAMAT DATANG! Sepertinya kamu menggunakan aplikasi ini untuk pertama kalinya</value>
+  </data>
+  <data name="PatientCalendarTabView.Calendar" xml:space="preserve">
+    <value>Kalender</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortFriday" xml:space="preserve">
+    <value>Jum</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortMonday" xml:space="preserve">
+    <value>Sen</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortSaturday" xml:space="preserve">
+    <value>Sab</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortSunday" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortThursday" xml:space="preserve">
+    <value>Kam</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortTuesday" xml:space="preserve">
+    <value>Sel</value>
+  </data>
+  <data name="PatientCalendarTabView.ShortWednesday" xml:space="preserve">
+    <value>Rab</value>
+  </data>
+  <data name="PatientCalendarTabView.TapDate" xml:space="preserve">
+    <value>Ketik pada tanggal untuk menilai atau melihat rincian</value>
+  </data>
+  <data name="PatientEczemaPage.DeletePhoto" xml:space="preserve">
+    <value>Hapus foto ini?</value>
+  </data>
+  <data name="PatientEczemaPhotoPage.Title" xml:space="preserve">
+    <value>Foto</value>
+  </data>
+  <data name="PatientEczemaTabView.AddPhoto" xml:space="preserve">
+    <value>+ Foto</value>
+  </data>
+  <data name="PatientEczemaTabView.ApplyMoisturiser" xml:space="preserve">
+    <value>Gunakan Pelembab</value>
+  </data>
+  <data name="PatientEczemaTabView.ApplySteroids" xml:space="preserve">
+    <value>Gunakan steroid topikal </value>
+  </data>
+  <data name="PatientEczemaTabView.DeleteRecord" xml:space="preserve">
+    <value>Menghapus data ini?</value>
+  </data>
+  <data name="PatientEczemaTabView.DoctorHint" xml:space="preserve">
+    <value>Ketik salah satu emoticon di atas untuk menilai Eksim kamu hari ini. Setelah itu, kamu juga dapat menambahkan foto dan membuat catatan tambahan.</value>
+  </data>
+  <data name="PatientEczemaTabView.Notes" xml:space="preserve">
+    <value>CATATAN</value>
+  </data>
+  <data name="PatientEczemaTabView.Others" xml:space="preserve">
+    <value>Lainnya</value>
+  </data>
+  <data name="PatientEczemaTabView.Photos" xml:space="preserve">
+    <value>FOTO</value>
+  </data>
+  <data name="PatientEczemaTabView.PickPhoto" xml:space="preserve">
+    <value>Tambahkan Foto</value>
+  </data>
+  <data name="PatientEczemaTabView.RateEczema" xml:space="preserve">
+    <value>tingkat Eksim</value>
+  </data>
+  <data name="PatientEczemaTabView.RateFeeling" xml:space="preserve">
+    <value>APA YANG KAMU RASA?</value>
+  </data>
+  <data name="PatientEczemaTabView.WhatDidYouDo" xml:space="preserve">
+    <value>APA YANG KAMU LAKUKAN?</value>
+  </data>
+  <data name="PatientPage.AddFamilyMember" xml:space="preserve">
+    <value>Tambahkan Anggota Keluarga</value>
+  </data>
+  <data name="PatientPage.Choose" xml:space="preserve">
+    <value>Pilih</value>
+  </data>
+  <data name="PatientPage.DateOfBirth" xml:space="preserve">
+    <value>Tanggal lahir</value>
+  </data>
+  <data name="PatientPage.DeleteFamilyMember" xml:space="preserve">
+    <value>Hapus anggota keluarga dan semua penilaian Eksim?</value>
+  </data>
+  <data name="PatientPage.ErrorInvalidDateOfBirth" xml:space="preserve">
+    <value>Ulang tahun tidak bisa lambat dari hari ini.</value>
+  </data>
+  <data name="PatientPage.ErrorMissingFields" xml:space="preserve">
+    <value>Kamu melewatkan beberapa kolom:</value>
+  </data>
+  <data name="PatientPage.FamilyMembersParticulars" xml:space="preserve">
+    <value>KETERANGAN ANGGOTA KELUARGA</value>
+  </data>
+  <data name="PatientPage.Gender" xml:space="preserve">
+    <value>Jenis kelamin</value>
+  </data>
+  <data name="PatientPage.GenderFemale" xml:space="preserve">
+    <value>Perempuan</value>
+  </data>
+  <data name="PatientPage.GenderMale" xml:space="preserve">
+    <value>Laki-laki</value>
+  </data>
+  <data name="PatientPage.HintHelpFirstPatient" xml:space="preserve">
+    <value>Sebelum menggunakan aplikasi ini, silahkan mengisi informasi dari anggota keluarga yang menderita eksim.</value>
+  </data>
+  <data name="PatientPage.HintHelpPatient" xml:space="preserve">
+    <value>Silahkan mengisi info dari anggota keluarga yang menderita eksim.</value>
+  </data>
+  <data name="PatientPage.Name" xml:space="preserve">
+    <value>Nama</value>
+  </data>
+  <data name="PatientPage.Photo" xml:space="preserve">
+    <value>Foto</value>
+  </data>
+  <data name="PatientPage.UpdateFamilyMember" xml:space="preserve">
+    <value>Perbarui Anggota Keluarga</value>
+  </data>
+  <data name="PatientPage.UpdateProfilePic" xml:space="preserve">
+    <value>Perbarui foto profil</value>
+  </data>
+  <data name="PatientReminderListTabView.DaysOfWeekLabel" xml:space="preserve">
+    <value>Di</value>
+  </data>
+  <data name="PatientReminderListTabView.FrequencyTypeLabel" xml:space="preserve">
+    <value>setiap</value>
+  </data>
+  <data name="PatientReminderListTabView.HintHelp" xml:space="preserve">
+    <value>Kamu tidak memiliki pengingat . Klik pada tombol + di atas untuk menambahkan satu!</value>
+  </data>
+  <data name="PatientReminderListTabView.Reminders" xml:space="preserve">
+    <value>pengingat</value>
+  </data>
+  <data name="PatientReminderListTabView.TimesOfDayLabel" xml:space="preserve">
+    <value>di</value>
+  </data>
+  <data name="PatientReminderPage.AddTime" xml:space="preserve">
+    <value>+ Tambahkan Waktu</value>
+  </data>
+  <data name="PatientReminderPage.DaysOfTheWeek" xml:space="preserve">
+    <value>HARI DALAM MINGGU INI</value>
+  </data>
+  <data name="PatientReminderPage.DeleteReminder" xml:space="preserve">
+    <value>Hapus pengingat ini?</value>
+  </data>
+  <data name="PatientReminderPage.Ends" xml:space="preserve">
+    <value>berakhir</value>
+  </data>
+  <data name="PatientReminderPage.ErrorInvalideStartEndDates" xml:space="preserve">
+    <value>tanggal mulai harus lebih awal dari tanggal akhir kamu.</value>
+  </data>
+  <data name="PatientReminderPage.ErrorMissingDayOfWeek" xml:space="preserve">
+    <value>Kamu harus memiliki setidaknya 1 hari dalam minggu yang dipilih.</value>
+  </data>
+  <data name="PatientReminderPage.ErrorMissingReminderDescription" xml:space="preserve">
+    <value>Kamu harus memasukkan deskripsi pengingat.</value>
+  </data>
+  <data name="PatientReminderPage.ErrorMissingTimeOfDay" xml:space="preserve">
+    <value>Kamu harus memiliki minimal 1 kali dari hari ditambahkan.</value>
+  </data>
+  <data name="PatientReminderPage.Frequency" xml:space="preserve">
+    <value>FREKUENSI</value>
+  </data>
+  <data name="PatientReminderPage.OthersPlaceHolder" xml:space="preserve">
+    <value>Masukkan deskripsi</value>
+  </data>
+  <data name="PatientReminderPage.RemindEvery" xml:space="preserve">
+    <value>Ingatkan Setiap</value>
+  </data>
+  <data name="PatientReminderPage.RemindMeTo" xml:space="preserve">
+    <value>INGATKAN Saya</value>
+  </data>
+  <data name="PatientReminderPage.Starts" xml:space="preserve">
+    <value>mulai</value>
+  </data>
+  <data name="PatientReminderPage.TimesOfTheDay" xml:space="preserve">
+    <value>Waktu  HARI INI</value>
+  </data>
+  <data name="PatientReminderPage.Title" xml:space="preserve">
+    <value>Daftar pengingat</value>
+  </data>
+  <data name="PatientReminderPage.TitleAddReminder" xml:space="preserve">
+    <value>Tambahkan Pengingat</value>
+  </data>
+  <data name="PatientReminderPage.TitleUpdateReminder" xml:space="preserve">
+    <value>Perbaharui Pengingat</value>
+  </data>
+  <data name="PatientTabPage.Master" xml:space="preserve">
+    <value>Kumpulan data</value>
+  </data>
+  <data name="PatientTabPage.PatientDetails" xml:space="preserve">
+    <value>Detail pasien</value>
+  </data>
+  <data name="PatientTabPage.RateApp" xml:space="preserve">
+    <value>Tingkat iControl ezcema</value>
+  </data>
+  <data name="PatientTabPage.RateAppDontRemind" xml:space="preserve">
+    <value>Tidak, jangan ingatkan aku lagi</value>
+  </data>
+  <data name="PatientTabPage.RateAppMessage" xml:space="preserve">
+    <value>Luangkan waktu sejenak untuk menilai iControl Eczema</value>
+  </data>
+  <data name="PatientTabPage.RateAppRemindLater" xml:space="preserve">
+    <value>Ingatkan saya lagi nanti</value>
+  </data>
+  <data name="PatientTrendChartTabView.Daily" xml:space="preserve">
+    <value>Harian</value>
+  </data>
+  <data name="PatientTrendChartTabView.Days" xml:space="preserve">
+    <value>Hari</value>
+  </data>
+  <data name="PatientTrendChartTabView.EczemaChartFor" xml:space="preserve">
+    <value>Grafik eksim</value>
+  </data>
+  <data name="PatientTrendChartTabView.EmailDoctor" xml:space="preserve">
+    <value>Email grafik ke Dokter</value>
+  </data>
+  <data name="PatientTrendChartTabView.HintHelp" xml:space="preserve">
+    <value>Perlihatkan grafik ini kepada doktermu pada kunjungan berikutnya</value>
+  </data>
+  <data name="PatientTrendChartTabView.NoPhotos" xml:space="preserve">
+    <value>Tidak ada foto yang tersedia.</value>
+  </data>
+  <data name="PatientTrendChartTabView.Photos" xml:space="preserve">
+    <value>FOTO</value>
+  </data>
+  <data name="PatientTrendChartTabView.ShowTheLast" xml:space="preserve">
+    <value>Tampilkan yang terakhir</value>
+  </data>
+  <data name="PatientTrendChartTabView.ViewChart" xml:space="preserve">
+    <value>Lihat grafik</value>
+  </data>
+  <data name="PatientTrendChartTabView.ViewRecord" xml:space="preserve">
+    <value>Lihat catatan</value>
+  </data>
+  <data name="PatientTrendChartTabView.WeeklyAverage" xml:space="preserve">
+    <value>rata-rata  mingguan</value>
+  </data>
+  <data name="PatientTrendChartTabView.Weeks" xml:space="preserve">
+    <value>Minggu</value>
+  </data>
+  <data name="SideBar.AddFamilyMember" xml:space="preserve">
+    <value>Tambahkan Anggota Keluarga</value>
+  </data>
+  <data name="SideBar.AddRandomPatient" xml:space="preserve">
+    <value>Tambahkan Pasien</value>
+  </data>
+  <data name="SideBar.ChangeLanguage" xml:space="preserve">
+    <value>Ganti BAHASA</value>
+  </data>
+  <data name="SideBar.FamilyMembers" xml:space="preserve">
+    <value>Anggota keluarga</value>
+  </data>
+  <data name="TopBar.UpdateProfilePic" xml:space="preserve">
+    <value>Update Profil foto</value>
+  </data>
+  <data name="UserPage.Cancel" xml:space="preserve">
+    <value>Tidak terima kasih, saya sudah memiliki akun</value>
+  </data>
+  <data name="UserPage.CreateAccount" xml:space="preserve">
+    <value>Buat akun baru</value>
+  </data>
+  <data name="UserPage.LoginAlreadyExists" xml:space="preserve">
+    <value>Nama login sudah ada</value>
+  </data>
+  <data name="UserPage.LoginName" xml:space="preserve">
+    <value>NAMA LOGIN</value>
+  </data>
+  <data name="UserPage.MissingFields" xml:space="preserve">
+    <value>Kamu melewatkan beberapa kolom</value>
+  </data>
+  <data name="UserPage.Password" xml:space="preserve">
+    <value>KATA SANDI</value>
+  </data>
+  <data name="UserPage.PasswordsMismatch" xml:space="preserve">
+    <value>Kedua password harus sesuai</value>
+  </data>
+  <data name="UserPage.TapSave" xml:space="preserve">
+    <value>Saya setuju dengan</value>
+  </data>
+  <data name="UserPage.TermsAndConditions" xml:space="preserve">
+    <value>Syarat dan ketentuan</value>
+  </data>
+  <data name="UserTOSPage.CompletedRead" xml:space="preserve">
+    <value>Ok, saya sudah membacanya</value>
+  </data>
+  <data name="UserTOSPage.TermsAndConditions" xml:space="preserve">
+    <value>Syarat dan ketentuan</value>
+  </data>
+</root>

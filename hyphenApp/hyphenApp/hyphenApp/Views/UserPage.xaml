@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hyphenApp.Views.UserPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Close" Clicked="Close_Clicked" Icon = "icon_down.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" VerticalOptions="FillAndExpand">
+            <StackLayout Spacing="0" VerticalOptions="CenterAndExpand" Orientation="Vertical" >
+                <StackLayout HorizontalOptions="FillAndExpand" Padding="20"  Spacing="0" Orientation="Vertical">
+                    <Label x:Name="lblHead" Text="Create a new account" FontSize="Medium" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" TextColor="Black" FontAttributes="Bold"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HeightRequest="40">
+                    <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                        <Label x:Name="lblLoginName" Text="LOGIN NAME" FontSize="Small" TextColor="Navy" />
+                    </StackLayout>
+                </StackLayout>
+
+                <!--<BoxView HeightRequest="1" Color="Silver">
+                </BoxView>-->
+
+                <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                    <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                        <Entry Placeholder="Email" x:Name="txtLogin" FontSize="Small" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Blue"></Entry>
+                    </StackLayout>
+                </StackLayout>
+
+                <!--<BoxView HeightRequest="1" Color="Silver">
+                </BoxView>-->
+
+
+                <StackLayout Orientation="Horizontal" HeightRequest="40">
+                    <StackLayout VerticalOptions="Center" Padding="20,10,0,0">
+                        <Label x:Name="lblPassword" Text="PASSWORD" FontSize="Small" TextColor="Navy" />
+                    </StackLayout>
+                </StackLayout>
+
+                <!--<BoxView HeightRequest="1" Color="Silver">
+                </BoxView>-->
+
+                <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                    <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                        <Entry Placeholder="Password" x:Name="txtPassword" FontSize="Small" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Blue" IsPassword="true"></Entry>
+                    </StackLayout>
+                </StackLayout>
+
+                <!--<BoxView HeightRequest="1" Color="Silver">
+                </BoxView>-->
+
+                <StackLayout Orientation="Horizontal" Padding="20,0,20,0" HeightRequest="40" BackgroundColor="White" HorizontalOptions="FillAndExpand">
+                    <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                        <Entry Placeholder="Confirm Password" x:Name="txtConfirmPassword" FontSize="Small" HorizontalOptions="FillAndExpand" BackgroundColor="White" TextColor="Blue" IsPassword="true"></Entry>
+                    </StackLayout>
+                </StackLayout>
+
+                <!--<BoxView HeightRequest="1" Color="Silver">
+                </BoxView>-->
+
+
+                <StackLayout Spacing="10">
+                    <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="Center" Padding="40" Spacing="10">
+
+                        <Button Text="Save" x:Name="btnSave" TextColor="White" BackgroundColor="Teal" BorderRadius="20" HeightRequest="40"/>
+                        <!--<Image x:Name="imgSave" Source="icon_longbar.png"  Grid.Row="0" Grid.Column="0"  HorizontalOptions="Center" WidthRequest="250" HeightRequest="100" Aspect="AspectFit">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="Save_OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>-->
+                        <!--<TouchGestureContentView x:Name="touchView">
+                            <Image x:Name="imgSave" Source="btnsave" WidthRequest="80" HeightRequest="80" Aspect="AspectFit">
+                            </Image>
+                        </TouchGestureContentView>-->
+
+                        <StackLayout Padding="0,0,0,0" Spacing="4">
+                            <Label Text="By tapping Save, I agree to the" Font="14" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" TextColor="Gray" x:Name="lblTapSave" />
+                            <Label Text="Terms and Conditions" Font="14" TextColor="Blue" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" x:Name="lblTermsOfService"/>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+
+            </StackLayout>
+
+            <!--<StackLayout HeightRequest="60" VerticalOptions="End">
+                <Button x:Name="btnCancel" Text="No thanks, I already have an account." TextColor="Navy" HeightRequest="60" FontSize="Small" HorizontalOptions="CenterAndExpand" BackgroundColor="Transparent" />
+            </StackLayout>-->
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
